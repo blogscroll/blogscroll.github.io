@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Thu, 05 Sep 2024 18:30:04 GMT</pubDate>
-    <lastBuildDate>Thu, 05 Sep 2024 18:30:04 GMT</lastBuildDate>
+    <pubDate>Thu, 02 Jan 2025 03:39:58 GMT</pubDate>
+    <lastBuildDate>Thu, 02 Jan 2025 03:39:58 GMT</lastBuildDate>
 
     
     
@@ -252,21 +252,9 @@
             
             
           
-            
-            
-            
-          
-            
-            
-            
-          
         
       
         
-          
-            
-            
-            
           
             
             
@@ -914,6 +902,14 @@
       </item>
     
       <item>
+        <title>Ánh Nguyễn (design-and-ux)</title>
+        <link>https://www.anh.ng</link>
+        <description>Ánh Nguyễn - https://www.anh.ng</description>
+        <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
+        <guid>https://www.anh.ng</guid>
+      </item>
+    
+      <item>
         <title>April Speight (technology)</title>
         <link>https://www.monthaftermars.com/</link>
         <description>April Speight - https://www.monthaftermars.com/</description>
@@ -1101,7 +1097,7 @@
         <title>Cahya Wibawa (technology)</title>
         <link>https://cahyawibawa.dev</link>
         <description>Cahya Wibawa - https://cahyawibawa.dev</description>
-        <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
+        <pubDate>Wed, 01 Jan 2025 14:00:00 PST</pubDate>
         <guid>https://cahyawibawa.dev</guid>
       </item>
     
@@ -1183,14 +1179,6 @@
         <description>Chloe Chia - https://chloechia.com/</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://chloechia.com/</guid>
-      </item>
-    
-      <item>
-        <title>Chris (personal)</title>
-        <link>https://caw.blog/</link>
-        <description>Chris - https://caw.blog/</description>
-        <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
-        <guid>https://caw.blog/</guid>
       </item>
     
       <item>
@@ -1402,14 +1390,6 @@
       </item>
     
       <item>
-        <title>Ersin Kıymaz (design-and-ux)</title>
-        <link>https://www.ersin.me</link>
-        <description>Ersin Kıymaz - https://www.ersin.me</description>
-        <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
-        <guid>https://www.ersin.me</guid>
-      </item>
-    
-      <item>
         <title>Fanindra Maharana (design-and-ux)</title>
         <link>https://blog.fanindra.xyz</link>
         <description>Fanindra Maharana - https://blog.fanindra.xyz</description>
@@ -1525,7 +1505,7 @@
         <title>Jeff Sandquist (technology)</title>
         <link>https://www.jeffsandquist.com/</link>
         <description>Jeff Sandquist - https://www.jeffsandquist.com/</description>
-        <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
+        <pubDate>Wed, 01 Jan 2025 14:00:00 PST</pubDate>
         <guid>https://www.jeffsandquist.com/</guid>
       </item>
     
@@ -1549,7 +1529,7 @@
         <title>Jerred Shepherd (technology)</title>
         <link>https://sjer.red/</link>
         <description>Jerred Shepherd - https://sjer.red/</description>
-        <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
+        <pubDate>Wed, 01 Jan 2025 14:00:00 PST</pubDate>
         <guid>https://sjer.red/</guid>
       </item>
     
@@ -1631,14 +1611,6 @@
         <description>Kaitlin McKinnon - https://www.kaitlinmckinnon.com</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://www.kaitlinmckinnon.com</guid>
-      </item>
-    
-      <item>
-        <title>Kat Fukui (design-and-ux)</title>
-        <link>https://www.katfukui.com/</link>
-        <description>Kat Fukui - https://www.katfukui.com/</description>
-        <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
-        <guid>https://www.katfukui.com/</guid>
       </item>
     
       <item>
@@ -1845,7 +1817,7 @@
         <title>Mikael Sargsyan (technology)</title>
         <link>https://www.mishomike.dev</link>
         <description>Mikael Sargsyan - https://www.mishomike.dev</description>
-        <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
+        <pubDate>Wed, 01 Jan 2025 14:00:00 PST</pubDate>
         <guid>https://www.mishomike.dev</guid>
       </item>
     
@@ -2082,19 +2054,19 @@
       </item>
     
       <item>
-        <title>Raphael Salaja (personal)</title>
-        <link>https://www.raphaelsalaja.com</link>
-        <description>Raphael Salaja - https://www.raphaelsalaja.com</description>
-        <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
-        <guid>https://www.raphaelsalaja.com</guid>
-      </item>
-    
-      <item>
         <title>Raphaël Rigo (technology)</title>
         <link>https://syscall.eu/</link>
         <description>Raphaël Rigo - https://syscall.eu/</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://syscall.eu/</guid>
+      </item>
+    
+      <item>
+        <title>Raphael Salaja (personal)</title>
+        <link>https://www.raphaelsalaja.com</link>
+        <description>Raphael Salaja - https://www.raphaelsalaja.com</description>
+        <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
+        <guid>https://www.raphaelsalaja.com</guid>
       </item>
     
       <item>
@@ -2186,6 +2158,14 @@
       </item>
     
       <item>
+        <title>Sébastien Dubois (technology)</title>
+        <link>https://www.dsebastien.net/</link>
+        <description>Sébastien Dubois - https://www.dsebastien.net/</description>
+        <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
+        <guid>https://www.dsebastien.net/</guid>
+      </item>
+    
+      <item>
         <title>Shariq Raza Qadri (technology)</title>
         <link>https://cosmicqbit.dev</link>
         <description>Shariq Raza Qadri - https://cosmicqbit.dev</description>
@@ -2271,14 +2251,6 @@
         <description>Stuart Regan - https://stuart.re</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://stuart.re</guid>
-      </item>
-    
-      <item>
-        <title>Sébastien Dubois (technology)</title>
-        <link>https://www.dsebastien.net/</link>
-        <description>Sébastien Dubois - https://www.dsebastien.net/</description>
-        <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
-        <guid>https://www.dsebastien.net/</guid>
       </item>
     
       <item>
@@ -2423,14 +2395,6 @@
         <description>Zoe Chew - https://whizzoe.com/</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://whizzoe.com/</guid>
-      </item>
-    
-      <item>
-        <title>Ánh Nguyễn (design-and-ux)</title>
-        <link>https://www.anh.ng</link>
-        <description>Ánh Nguyễn - https://www.anh.ng</description>
-        <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
-        <guid>https://www.anh.ng</guid>
       </item>
     
   </channel>
