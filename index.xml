@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Fri, 03 Jan 2025 08:33:45 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Jan 2025 08:33:45 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jan 2025 08:39:00 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jan 2025 08:39:00 GMT</lastBuildDate>
 
     
     
@@ -443,6 +443,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -1131,6 +1135,14 @@
         <description>Ben Hekster - https://www.hekster.org/</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://www.hekster.org/</guid>
+      </item>
+    
+      <item>
+        <title>Ben Weidig (technology)</title>
+        <link>https://belief-driven-design.com/</link>
+        <description>Ben Weidig - https://belief-driven-design.com/</description>
+        <pubDate>Thu, 02 Jan 2025 14:00:00 PST</pubDate>
+        <guid>https://belief-driven-design.com/</guid>
       </item>
     
       <item>
