@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Fri, 03 Jan 2025 07:56:45 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Jan 2025 07:56:45 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jan 2025 08:00:57 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jan 2025 08:00:57 GMT</lastBuildDate>
 
     
     
@@ -259,6 +259,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -1587,6 +1591,14 @@
         <description>Greg Knox - https://www.randomnoun.com/</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://www.randomnoun.com/</guid>
+      </item>
+    
+      <item>
+        <title>Hashin Jithu (personal)</title>
+        <link>https://blog.hashin.me/</link>
+        <description>Hashin Jithu - https://blog.hashin.me/</description>
+        <pubDate>Thu, 02 Jan 2025 14:00:00 PST</pubDate>
+        <guid>https://blog.hashin.me/</guid>
       </item>
     
       <item>
