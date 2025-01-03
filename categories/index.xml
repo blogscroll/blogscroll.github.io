@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Fri, 03 Jan 2025 08:29:44 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Jan 2025 08:29:44 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jan 2025 08:31:39 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jan 2025 08:31:39 GMT</lastBuildDate>
 
     
     
@@ -259,6 +259,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -2139,6 +2143,14 @@
         <description>Niklas Johannknecht - https://niklasjohannknecht.com</description>
         <pubDate>Sun, 01 Sep 2024 15:00:00 PST</pubDate>
         <guid>https://niklasjohannknecht.com</guid>
+      </item>
+    
+      <item>
+        <title>Niklas Pivic (personal)</title>
+        <link>https://garden.pivic.com/</link>
+        <description>Niklas Pivic - https://garden.pivic.com/</description>
+        <pubDate>Thu, 02 Jan 2025 14:00:00 PST</pubDate>
+        <guid>https://garden.pivic.com/</guid>
       </item>
     
       <item>
