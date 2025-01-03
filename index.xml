@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Fri, 03 Jan 2025 08:31:39 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Jan 2025 08:31:39 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jan 2025 08:33:45 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jan 2025 08:33:45 GMT</lastBuildDate>
 
     
     
@@ -15,6 +15,10 @@
     
       
         
+          
+            
+            
+            
           
             
             
@@ -1063,6 +1067,14 @@
         <description>Ariel Norling - http://arielnorling.com/</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>http://arielnorling.com/</guid>
+      </item>
+    
+      <item>
+        <title>Arjun (design-and-ux)</title>
+        <link>https://arjunmakesthings.github.io/</link>
+        <description>Arjun - https://arjunmakesthings.github.io/</description>
+        <pubDate>Thu, 02 Jan 2025 14:00:00 PST</pubDate>
+        <guid>https://arjunmakesthings.github.io/</guid>
       </item>
     
       <item>
