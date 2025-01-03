@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Fri, 03 Jan 2025 07:49:43 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Jan 2025 07:49:43 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jan 2025 07:51:42 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jan 2025 07:51:42 GMT</lastBuildDate>
 
     
     
@@ -415,6 +415,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -1579,6 +1583,14 @@
         <description>Greg Knox - https://www.randomnoun.com/</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://www.randomnoun.com/</guid>
+      </item>
+    
+      <item>
+        <title>Horace Guy (technology)</title>
+        <link>https://blog.horaceg.xyz/</link>
+        <description>Horace Guy - https://blog.horaceg.xyz/</description>
+        <pubDate>Thu, 02 Jan 2025 14:00:00 PST</pubDate>
+        <guid>https://blog.horaceg.xyz/</guid>
       </item>
     
       <item>
