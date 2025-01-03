@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Fri, 03 Jan 2025 08:42:34 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Jan 2025 08:42:34 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jan 2025 08:43:52 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jan 2025 08:43:52 GMT</lastBuildDate>
 
     
     
@@ -263,6 +263,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -2347,6 +2351,14 @@
         <description>Raphael Gaschignard - https://rtpg.co/</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://rtpg.co/</guid>
+      </item>
+    
+      <item>
+        <title>Raphael Pour (personal)</title>
+        <link>https://evilcookie.de/</link>
+        <description>Raphael Pour - https://evilcookie.de/</description>
+        <pubDate>Thu, 02 Jan 2025 14:00:00 PST</pubDate>
+        <guid>https://evilcookie.de/</guid>
       </item>
     
       <item>
