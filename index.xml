@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Fri, 03 Jan 2025 08:00:57 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Jan 2025 08:00:57 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jan 2025 08:03:47 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jan 2025 08:03:47 GMT</lastBuildDate>
 
     
     
@@ -259,6 +259,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -2167,6 +2171,14 @@
         <description>Paul Stamatiou - https://paulstamatiou.com/</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://paulstamatiou.com/</guid>
+      </item>
+    
+      <item>
+        <title>Pete Ader (personal)</title>
+        <link>https://petesprojects.net/</link>
+        <description>Pete Ader - https://petesprojects.net/</description>
+        <pubDate>Thu, 02 Jan 2025 14:00:00 PST</pubDate>
+        <guid>https://petesprojects.net/</guid>
       </item>
     
       <item>
