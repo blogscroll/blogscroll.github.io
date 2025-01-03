@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Fri, 03 Jan 2025 07:51:42 GMT</pubDate>
-    <lastBuildDate>Fri, 03 Jan 2025 07:51:42 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jan 2025 07:56:45 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jan 2025 07:56:45 GMT</lastBuildDate>
 
     
     
@@ -259,6 +259,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -1935,6 +1939,14 @@
         <description>Melvyn Laïly - https://zerowidthjoiner.net/</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://zerowidthjoiner.net/</guid>
+      </item>
+    
+      <item>
+        <title>Michael Kupietz (personal)</title>
+        <link>https://michaelkupietz.com/</link>
+        <description>Michael Kupietz - https://michaelkupietz.com/</description>
+        <pubDate>Thu, 02 Jan 2025 14:00:00 PST</pubDate>
+        <guid>https://michaelkupietz.com/</guid>
       </item>
     
       <item>
