@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Mon, 06 Jan 2025 23:40:32 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Jan 2025 23:40:32 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Jan 2025 23:41:22 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Jan 2025 23:41:22 GMT</lastBuildDate>
 
     
     
@@ -263,6 +263,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -1479,6 +1483,14 @@
         <description>Craig Hooper - https://craighooper.xyz/</description>
         <pubDate>Sun, 01 Sep 2024 15:00:00 PST</pubDate>
         <guid>https://craighooper.xyz/</guid>
+      </item>
+    
+      <item>
+        <title>D. Bohdan (personal)</title>
+        <link>https://dbohdan.com/</link>
+        <description>D. Bohdan - https://dbohdan.com/</description>
+        <pubDate>Sat, 04 Jan 2025 10:24:37 PST</pubDate>
+        <guid>https://dbohdan.com/</guid>
       </item>
     
       <item>
