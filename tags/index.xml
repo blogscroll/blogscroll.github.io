@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Mon, 06 Jan 2025 05:59:27 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Jan 2025 05:59:27 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Jan 2025 23:38:27 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Jan 2025 23:38:27 GMT</lastBuildDate>
 
     
     
@@ -263,6 +263,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -1995,6 +1999,14 @@
         <description>Laurent Bugnion - https://galasoft.ch</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://galasoft.ch</guid>
+      </item>
+    
+      <item>
+        <title>Lev Goncharov (personal)</title>
+        <link>https://www.goncharov.xyz/</link>
+        <description>Lev Goncharov - https://www.goncharov.xyz/</description>
+        <pubDate>Mon, 06 Jan 2025 19:21:17 PST</pubDate>
+        <guid>https://www.goncharov.xyz/</guid>
       </item>
     
       <item>
