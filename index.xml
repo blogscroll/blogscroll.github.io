@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Mon, 06 Jan 2025 23:43:12 GMT</pubDate>
-    <lastBuildDate>Mon, 06 Jan 2025 23:43:12 GMT</lastBuildDate>
+    <pubDate>Mon, 06 Jan 2025 23:44:19 GMT</pubDate>
+    <lastBuildDate>Mon, 06 Jan 2025 23:44:19 GMT</lastBuildDate>
 
     
     
@@ -263,6 +263,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -1823,6 +1827,14 @@
         <description>Jason Jun - https://www.jasonjun.dev</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://www.jasonjun.dev</guid>
+      </item>
+    
+      <item>
+        <title>Jatin Nagpal (personal)</title>
+        <link>https://blog.jatinnagpal.com/</link>
+        <description>Jatin Nagpal - https://blog.jatinnagpal.com/</description>
+        <pubDate>Sat, 04 Jan 2025 06:22:00 PST</pubDate>
+        <guid>https://blog.jatinnagpal.com/</guid>
       </item>
     
       <item>
