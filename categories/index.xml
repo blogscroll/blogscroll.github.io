@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Tue, 07 Jan 2025 00:01:38 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Jan 2025 00:01:38 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Jan 2025 00:02:32 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Jan 2025 00:02:32 GMT</lastBuildDate>
 
     
     
@@ -515,6 +515,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -1799,6 +1803,14 @@
         <description>Gonzalo García Paz - https://www.gonzija.com</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://www.gonzija.com</guid>
+      </item>
+    
+      <item>
+        <title>Graham Lee (technology)</title>
+        <link>https://sicpers.info/blog</link>
+        <description>Graham Lee - https://sicpers.info/blog</description>
+        <pubDate>Thu, 02 Jan 2025 14:00:00 PST</pubDate>
+        <guid>https://sicpers.info/blog</guid>
       </item>
     
       <item>
