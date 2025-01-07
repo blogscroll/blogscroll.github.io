@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Tue, 07 Jan 2025 00:04:44 GMT</pubDate>
-    <lastBuildDate>Tue, 07 Jan 2025 00:04:44 GMT</lastBuildDate>
+    <pubDate>Tue, 07 Jan 2025 00:07:26 GMT</pubDate>
+    <lastBuildDate>Tue, 07 Jan 2025 00:07:26 GMT</lastBuildDate>
 
     
     
@@ -515,6 +515,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -1115,6 +1119,14 @@
         <description>Alex Weichart - https://alexanderweichart.de/</description>
         <pubDate>Thu, 02 Jan 2025 14:00:00 PST</pubDate>
         <guid>https://alexanderweichart.de/</guid>
+      </item>
+    
+      <item>
+        <title>Alexander Ameye (technology)</title>
+        <link>https://ameye.dev/</link>
+        <description>Alexander Ameye - https://ameye.dev/</description>
+        <pubDate>Fri, 03 Jan 2025 14:00:00 PST</pubDate>
+        <guid>https://ameye.dev/</guid>
       </item>
     
       <item>
