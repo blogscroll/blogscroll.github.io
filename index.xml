@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Wed, 08 Jan 2025 02:00:10 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Jan 2025 02:00:10 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Jan 2025 02:09:09 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2025 02:09:09 GMT</lastBuildDate>
 
     
     
@@ -267,6 +267,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -2407,6 +2411,14 @@
         <description>Muhammad Raza - https://muhammadraza.me/</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://muhammadraza.me/</guid>
+      </item>
+    
+      <item>
+        <title>Mukesh Gupta (personal)</title>
+        <link>https://rmukeshgupta.com/</link>
+        <description>Mukesh Gupta - https://rmukeshgupta.com/</description>
+        <pubDate>Tue, 07 Jan 2025 10:25:00 PST</pubDate>
+        <guid>https://rmukeshgupta.com/</guid>
       </item>
     
       <item>
