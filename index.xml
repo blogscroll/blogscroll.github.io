@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Wed, 08 Jan 2025 02:13:33 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Jan 2025 02:13:33 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Jan 2025 02:35:44 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2025 02:35:44 GMT</lastBuildDate>
 
     
     
@@ -531,6 +531,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -2567,6 +2571,14 @@
         <description>Óscar Fernández - https://osc.garden/</description>
         <pubDate>Fri, 03 Jan 2025 10:25:00 PST</pubDate>
         <guid>https://osc.garden/</guid>
+      </item>
+    
+      <item>
+        <title>Outlore (technology)</title>
+        <link>https://outlore.dev/</link>
+        <description>Outlore - https://outlore.dev/</description>
+        <pubDate>Tue, 07 Jan 2025 11:57:00 PST</pubDate>
+        <guid>https://outlore.dev/</guid>
       </item>
     
       <item>
