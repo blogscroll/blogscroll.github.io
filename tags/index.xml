@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Wed, 08 Jan 2025 02:35:44 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Jan 2025 02:35:44 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Jan 2025 02:37:43 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Jan 2025 02:37:43 GMT</lastBuildDate>
 
     
     
@@ -267,6 +267,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -3123,6 +3127,14 @@
         <description>Vladimir Haltakov - https://haltakov.net/</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://haltakov.net/</guid>
+      </item>
+    
+      <item>
+        <title>Will (personal)</title>
+        <link>https://ides.dev/</link>
+        <description>Will - https://ides.dev/</description>
+        <pubDate>Tue, 07 Jan 2025 10:25:00 PST</pubDate>
+        <guid>https://ides.dev/</guid>
       </item>
     
       <item>
