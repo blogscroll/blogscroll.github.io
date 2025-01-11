@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Sat, 11 Jan 2025 02:09:04 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Jan 2025 02:09:04 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Jan 2025 02:10:16 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Jan 2025 02:10:16 GMT</lastBuildDate>
 
     
     
@@ -267,6 +267,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -2791,6 +2795,14 @@
         <description>Rishikesh Sreehari - https://rishikeshs.com/</description>
         <pubDate>Wed, 08 Jan 2025 15:55:00 PST</pubDate>
         <guid>https://rishikeshs.com/</guid>
+      </item>
+    
+      <item>
+        <title>Rob Kohr (personal)</title>
+        <link>https://robkohr.com/</link>
+        <description>Rob Kohr - https://robkohr.com/</description>
+        <pubDate>Fri, 05 Jan 2024 14:00:00 PST</pubDate>
+        <guid>https://robkohr.com/</guid>
       </item>
     
       <item>
