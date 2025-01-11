@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Sat, 11 Jan 2025 02:10:16 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Jan 2025 02:10:16 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Jan 2025 02:46:01 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Jan 2025 02:46:01 GMT</lastBuildDate>
 
     
     
@@ -267,6 +267,22 @@
         
       
         
+          
+            
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
           
             
             
@@ -1230,6 +1246,14 @@
       </item>
     
       <item>
+        <title>Andreas Gohr (personal)</title>
+        <link>https://www.splitbrain.org</link>
+        <description>Andreas Gohr - https://www.splitbrain.org</description>
+        <pubDate>Tue, 07 Jan 2025 15:41:00 PST</pubDate>
+        <guid>https://www.splitbrain.org</guid>
+      </item>
+    
+      <item>
         <title>Andreas Jaggi (technology)</title>
         <link>https://blog.x-way.org/</link>
         <description>Andreas Jaggi - https://blog.x-way.org/</description>
@@ -1243,6 +1267,14 @@
         <description>Andrew Walpole - https://andrewwalpole.com/</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://andrewwalpole.com/</guid>
+      </item>
+    
+      <item>
+        <title>Andrey Ozornin (personal)</title>
+        <link>https://ozorn.in/</link>
+        <description>Andrey Ozornin - https://ozorn.in/</description>
+        <pubDate>Tue, 07 Jan 2025 12:58:00 PST</pubDate>
+        <guid>https://ozorn.in/</guid>
       </item>
     
       <item>
@@ -1435,6 +1467,14 @@
         <description>Brent Deverman - https://www.deverman.org/</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://www.deverman.org/</guid>
+      </item>
+    
+      <item>
+        <title>Bret Comnes (personal)</title>
+        <link>https://bret.io/</link>
+        <description>Bret Comnes - https://bret.io/</description>
+        <pubDate>Tue, 07 Jan 2025 14:00:00 PST</pubDate>
+        <guid>https://bret.io/</guid>
       </item>
     
       <item>
@@ -2787,6 +2827,14 @@
         <description>ReproDev - https://reprodev.com/</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://reprodev.com/</guid>
+      </item>
+    
+      <item>
+        <title>Rinas (personal)</title>
+        <link>https://onerinas.com</link>
+        <description>Rinas - https://onerinas.com</description>
+        <pubDate>Tue, 17 Dec 2024 00:00:00 PST</pubDate>
+        <guid>https://onerinas.com</guid>
       </item>
     
       <item>
