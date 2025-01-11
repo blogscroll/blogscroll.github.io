@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Sat, 11 Jan 2025 02:02:35 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Jan 2025 02:02:35 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Jan 2025 02:03:17 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Jan 2025 02:03:17 GMT</lastBuildDate>
 
     
     
@@ -267,6 +267,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -1947,6 +1951,14 @@
         <description>Hynek Schlawack - https://hynek.me/</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://hynek.me/</guid>
+      </item>
+    
+      <item>
+        <title>Ike Saunders (personal)</title>
+        <link>https://ikesau.co/</link>
+        <description>Ike Saunders - https://ikesau.co/</description>
+        <pubDate>Thu, 09 Jan 2025 16:30:00 PST</pubDate>
+        <guid>https://ikesau.co/</guid>
       </item>
     
       <item>
