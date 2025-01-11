@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Sat, 11 Jan 2025 01:59:26 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Jan 2025 01:59:26 GMT</lastBuildDate>
+    <pubDate>Sat, 11 Jan 2025 02:02:35 GMT</pubDate>
+    <lastBuildDate>Sat, 11 Jan 2025 02:02:35 GMT</lastBuildDate>
 
     
     
@@ -267,6 +267,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -2079,6 +2083,14 @@
         <description>John Reynolds - https://reynoldsj.co</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://reynoldsj.co</guid>
+      </item>
+    
+      <item>
+        <title>Jon Ericson (personal)</title>
+        <link>https://jlericson.com</link>
+        <description>Jon Ericson - https://jlericson.com</description>
+        <pubDate>Thu, 09 Jan 2025 14:26:47 PST</pubDate>
+        <guid>https://jlericson.com</guid>
       </item>
     
       <item>
