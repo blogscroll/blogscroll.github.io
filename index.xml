@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Fri, 31 Jan 2025 18:32:30 GMT</pubDate>
-    <lastBuildDate>Fri, 31 Jan 2025 18:32:30 GMT</lastBuildDate>
+    <pubDate>Fri, 31 Jan 2025 18:32:44 GMT</pubDate>
+    <lastBuildDate>Fri, 31 Jan 2025 18:32:44 GMT</lastBuildDate>
 
     
     
@@ -579,6 +579,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -1715,6 +1719,14 @@
         <description>Danilo Tanic - https://danilotanic.com</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://danilotanic.com</guid>
+      </item>
+    
+      <item>
+        <title>Darek Kay (technology)</title>
+        <link>https://darekkay.com/</link>
+        <description>Darek Kay - https://darekkay.com/</description>
+        <pubDate>Wed, 29 Jan 2025 19:00:00 PST</pubDate>
+        <guid>https://darekkay.com/</guid>
       </item>
     
       <item>
