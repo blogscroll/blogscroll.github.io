@@ -5,8 +5,8 @@
     <link>https://blogscroll.com/</link>
     <atom:link href="https://blogscroll.com/index.xml" rel="self" type="application/rss+xml" />
     <description>An open directory of personal sites and blogs, maintained entirely on GitHub.</description>
-    <pubDate>Tue, 11 Feb 2025 05:08:15 GMT</pubDate>
-    <lastBuildDate>Tue, 11 Feb 2025 05:08:15 GMT</lastBuildDate>
+    <pubDate>Tue, 11 Feb 2025 05:09:43 GMT</pubDate>
+    <lastBuildDate>Tue, 11 Feb 2025 05:09:43 GMT</lastBuildDate>
 
     
     
@@ -279,6 +279,10 @@
         
       
         
+          
+            
+            
+            
           
             
             
@@ -2959,6 +2963,14 @@
         <description>Marc Astbury - https://marcastbury.com</description>
         <pubDate>Sun, 01 Sep 2024 14:00:00 PST</pubDate>
         <guid>https://marcastbury.com</guid>
+      </item>
+    
+      <item>
+        <title>Marc Littlemore (personal)</title>
+        <link>https://marclittlemore.com</link>
+        <description>Marc Littlemore - https://marclittlemore.com</description>
+        <pubDate>Tue, 11 Feb 2025 05:08:00 PST</pubDate>
+        <guid>https://marclittlemore.com</guid>
       </item>
     
       <item>
