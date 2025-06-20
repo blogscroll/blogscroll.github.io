@@ -4,13 +4,13 @@
 <opml version="2.0">
     <head>
         <title>BlogScroll - Personal Blog &amp; Site Directory</title>
-        <dateCreated>Fri, 20 Jun 2025 23:54:35 GMT</dateCreated>
-        <dateModified>Fri, 20 Jun 2025 23:54:35 GMT</dateModified>
+        <dateCreated>Fri, 20 Jun 2025 23:55:33 GMT</dateCreated>
+        <dateModified>Fri, 20 Jun 2025 23:55:33 GMT</dateModified>
         <ownerName>BlogScroll</ownerName>
         <ownerEmail>hi@den.dev</ownerEmail>
     </head>
     <body>
-        <outline text="Design and Ux" title="Design and Ux" description="Design and Ux" type="folder">
+        <outline text="design-and-ux" title="design-and-ux" description="design-and-ux" type="folder">
             <outline text="Adarsh DK" title="Adarsh DK" description="Adarsh DK" type="rss" xmlUrl="" htmlUrl="https://www.adarshdk.com" />
             <outline text="Adi Chakravarty" title="Adi Chakravarty" description="Adi Chakravarty" type="rss" xmlUrl="" htmlUrl="https://adi.ac" />
             <outline text="Alessandro Mingione" title="Alessandro Mingione" description="Alessandro Mingione" type="rss" xmlUrl="" htmlUrl="https://www.ale.fyi/" />
@@ -83,10 +83,10 @@
             <outline text="Toni Lijic" title="Toni Lijic" description="Toni Lijic" type="rss" xmlUrl="" htmlUrl="https://www.toni.li" />
             <outline text="Trang Bui" title="Trang Bui" description="Trang Bui" type="rss" xmlUrl="" htmlUrl="https://trangbui.me/" />
         </outline>
-        <outline text="Finance" title="Finance" description="Finance" type="folder">
+        <outline text="finance" title="finance" description="finance" type="folder">
             <outline text="Patrick McKenzie" title="Patrick McKenzie" description="Patrick McKenzie" type="rss" xmlUrl="" htmlUrl="https://www.bitsaboutmoney.com/" />
         </outline>
-        <outline text="Personal" title="Personal" description="Personal" type="folder">
+        <outline text="personal" title="personal" description="personal" type="folder">
             <outline text="~hedy" title="~hedy" description="~hedy" type="rss" xmlUrl="" htmlUrl="https://home.hedy.dev/" />
             <outline text="Aadhavan Srinivasan" title="Aadhavan Srinivasan" description="Aadhavan Srinivasan" type="rss" xmlUrl="" htmlUrl="https://twomorecents.org/" />
             <outline text="Aaron Leonard" title="Aaron Leonard" description="Aaron Leonard" type="rss" xmlUrl="" htmlUrl="https://risingthumb.xyz/" />
@@ -235,13 +235,13 @@
             <outline text="Yuval Adam" title="Yuval Adam" description="Yuval Adam" type="rss" xmlUrl="" htmlUrl="https://yuv.al" />
             <outline text="Zygimantas Berziunas" title="Zygimantas Berziunas" description="Zygimantas Berziunas" type="rss" xmlUrl="" htmlUrl="https://zygimantas.com/" />
         </outline>
-        <outline text="Photo Video Production" title="Photo Video Production" description="Photo Video Production" type="folder">
+        <outline text="photo-video-production" title="photo-video-production" description="photo-video-production" type="folder">
             <outline text="Bill (ChillBillDill)" title="Bill (ChillBillDill)" description="Bill (ChillBillDill)" type="rss" xmlUrl="" htmlUrl="https://www.chillbilldill.com/" />
             <outline text="Kaitlin McKinnon" title="Kaitlin McKinnon" description="Kaitlin McKinnon" type="rss" xmlUrl="" htmlUrl="https://www.kaitlinmckinnon.com" />
             <outline text="Robert Roose" title="Robert Roose" description="Robert Roose" type="rss" xmlUrl="" htmlUrl="https://roose.digital/en" />
             <outline text="Spaqin" title="Spaqin" description="Spaqin" type="rss" xmlUrl="" htmlUrl="https://spaq.in/" />
         </outline>
-        <outline text="Technology" title="Technology" description="Technology" type="folder">
+        <outline text="technology" title="technology" description="technology" type="folder">
             <outline text="Aayush Sahu" title="Aayush Sahu" description="Aayush Sahu" type="rss" xmlUrl="" htmlUrl="https://aayushsahu.com/" />
             <outline text="Abhishek Banthia" title="Abhishek Banthia" description="Abhishek Banthia" type="rss" xmlUrl="" htmlUrl="https://abhishekbanthia.com/" />
             <outline text="Alberto Llamas" title="Alberto Llamas" description="Alberto Llamas" type="rss" xmlUrl="" htmlUrl="https://www.deeplifelearning.com/" />
