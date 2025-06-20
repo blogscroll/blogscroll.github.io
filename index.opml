@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/opml.xsl"?>
+
+<opml version="2.0">
+    <head>
+        <title>BlogScroll - Personal Blog &amp; Site Directory</title>
+        <dateCreated>Fri, 20 Jun 2025 23:31:56 UTC</dateCreated>
+        <dateModified>Fri, 20 Jun 2025 23:31:56 UTC</dateModified>
+        <ownerName>BlogScroll</ownerName>
+        <ownerEmail></ownerEmail>
+        <docs>http://opml.org/spec2.opml</docs>
+    </head>
+    <body>
+        <outline text="Design and Ux" title="Design and Ux" description="Design and Ux" type="folder">
+            <outline text="Adarsh DK" title="Adarsh DK" description="Adarsh DK" type="link" url="https://www.adarshdk.com" favicon="https://www.adarshdk.com/icon.svg" />
+            <outline text="Adi Chakravarty" title="Adi Chakravarty" description="Adi Chakravarty" type="link" url="https://adi.ac" favicon="https://framerusercontent.com/images/aD6HIy6q0l0uiaKgV3uqMXMg7CY.png" />
+            <outline text="Alessandro Mingione" title="Alessandro Mingione" description="Alessandro Mingione" type="link" url="https://www.ale.fyi/" favicon="https://www.ale.fyi/favicon.png" />
+            <outline text="Alex Baldwin" title="Alex Baldwin" description="Alex Baldwin" type="link" url="https://www.alexbaldwin.com" favicon="https://www.alexbaldwin.com/favicon-32x32.png" />
+            <outline text="Allison Grayce Marshall" title="Allison Grayce Marshall" description="Allison Grayce Marshall" type="link" url="https://www.allisongrayce.com/" favicon="https://uploads-ssl.webflow.com/img/favicon.ico" />
+            <outline text="Ánh Nguyễn" title="Ánh Nguyễn" description="Ánh Nguyễn" type="link" url="https://www.anh.ng" favicon="https://www.anh.ng/public/favicon.svg" />
+            <outline text="Ariel Norling" title="Ariel Norling" description="Ariel Norling" type="link" url="http://arielnorling.com/" favicon="/generic.ico" />
+            <outline text="Arjun" title="Arjun" description="Arjun" type="link" url="https://arjunmakesthings.github.io/" favicon="https://arjunmakesthings.github.io/assets/favicon.ico" />
+            <outline text="Arjun Mahanti" title="Arjun Mahanti" description="Arjun Mahanti" type="link" url="https://mahanti.co" favicon="/generic.ico" />
+            <outline text="Barbara Schussmann" title="Barbara Schussmann" description="Barbara Schussmann" type="link" url="https://barbaraschussmann.de" favicon="https://barbaraschussmann.de/img/icon.png" />
+            <outline text="Billy Tseng" title="Billy Tseng" description="Billy Tseng" type="link" url="https://www.billytseng.com" favicon="https://framerusercontent.com/images/i9Nr3Zt7PjpExQObX6hl9IKFkI.png" />
+            <outline text="Brad Cerasani" title="Brad Cerasani" description="Brad Cerasani" type="link" url="https://bradcerasani.me" favicon="https://bradcerasani.me/favicon.svg" />
+            <outline text="Caner Aras" title="Caner Aras" description="Caner Aras" type="link" url="https://www.caneraras.com" favicon="https://cdn.prod.website-files.com/63e50e62750f5d4a79fd5698/681d263fdc9a82846a41539e_Favicon-small.png" />
+            <outline text="Carl Barenbrug" title="Carl Barenbrug" description="Carl Barenbrug" type="link" url="https://carlbarenbrug.com/" favicon="https://carlbarenbrug.com/favicon.ico" />
+            <outline text="Charlie Deets" title="Charlie Deets" description="Charlie Deets" type="link" url="https://charliedeets.com" favicon="https://charliedeets.com/assets/favicon/favicon-light-32.png" />
+            <outline text="Christopher Butler" title="Christopher Butler" description="Christopher Butler" type="link" url="https://www.chrbutler.com" favicon="https://cdn.blot.im/blog_a7eb7cf1ab024efcb17c380ef69c53f4/_avatars/1976bb0f-a6df-4893-8fa7-367964b69a4e.png" />
+            <outline text="Craig Hooper" title="Craig Hooper" description="Craig Hooper" type="link" url="https://craighooper.xyz/" favicon="https://framerusercontent.com/images/TUBfPN0NYcyNCiDLlS6F3IwK7I.png" />
+            <outline text="Danilo Tanic" title="Danilo Tanic" description="Danilo Tanic" type="link" url="https://danilotanic.com" favicon="https://framerusercontent.com/images/JtZxR3yDd5kqx1IhllvhzX6gvk.png" />
+            <outline text="David Newcomb" title="David Newcomb" description="David Newcomb" type="link" url="https://arbourtrary.com/" favicon="https://arbourtrary.com/images/arbourtrary-inverse-32x32.png" />
+            <outline text="David Schmudde" title="David Schmudde" description="David Schmudde" type="link" url="https://schmud.de" favicon="https://schmud.de/favicon.ico" />
+            <outline text="Diego Alarcon" title="Diego Alarcon" description="Diego Alarcon" type="link" url="https://www.diegoar.space" favicon="https://www.diegoar.space/icon.png" />
+            <outline text="Dlay" title="Dlay" description="Dlay" type="link" url="https://dlay.eu" favicon="/generic.ico" />
+            <outline text="Dylan James" title="Dylan James" description="Dylan James" type="link" url="https://www.dylan-james.co" favicon="https://framerusercontent.com/images/KHZ5bcK2JC2y7NGUGgKw1nnNaJQ.png" />
+            <outline text="Edgar López" title="Edgar López" description="Edgar López" type="link" url="https://edgarlr.com" favicon="https://edgarlr.com/icon.svg" />
+            <outline text="Edin Abazi" title="Edin Abazi" description="Edin Abazi" type="link" url="https://www.edinabazi.com" favicon="https://www.edinabazi.com/images/edinhat.jpg" />
+            <outline text="Eric Bailey" title="Eric Bailey" description="Eric Bailey" type="link" url="https://ericwbailey.website/" favicon="https://ericwbailey.website/favicon.ico" />
+            <outline text="Fabian Hemmert" title="Fabian Hemmert" description="Fabian Hemmert" type="link" url="http://www.fabianhemmert.com" favicon="https://www.fabianhemmert.com/assets/images/favicon/favicon.ico" />
+            <outline text="Femke van Schoonhoven" title="Femke van Schoonhoven" description="Femke van Schoonhoven" type="link" url="https://www.femke.design/" favicon="https://assets.website-files.com/5a4605273472ef00014ade36/5a98f5d1a301900001617061_fav.png" />
+            <outline text="Glauber" title="Glauber" description="Glauber" type="link" url="https://glauber.xyz" favicon="https://glauber.xyz/favicon.ico" />
+            <outline text="Glenn Hitchcock" title="Glenn Hitchcock" description="Glenn Hitchcock" type="link" url="https://glenn.me/" favicon="https://framerusercontent.com/images/fINWFuq4LgJ68nUJIva6xqQJk.svg" />
+            <outline text="Gonzalo García Paz" title="Gonzalo García Paz" description="Gonzalo García Paz" type="link" url="https://www.gonzija.com" favicon="https://framerusercontent.com/images/xAG6iaggJJ7yfPmK60QrtzBVGcU.svg" />
+            <outline text="Grant Purtle" title="Grant Purtle" description="Grant Purtle" type="link" url="https://grantpurtle.com" favicon="https://grantpurtle.com/favicon.ico" />
+            <outline text="Guilherme Simoes" title="Guilherme Simoes" description="Guilherme Simoes" type="link" url="https://guilhermesimoes.com/" favicon="/generic.ico" />
+            <outline text="Jason Jun" title="Jason Jun" description="Jason Jun" type="link" url="https://www.jasonjun.dev" favicon="https://www.jasonjun.dev/favicon.ico" />
+            <outline text="Joesak Josefianoes" title="Joesak Josefianoes" description="Joesak Josefianoes" type="link" url="https://www.joesakjf.com" favicon="https://framerusercontent.com/images/UxCS0yYWzhtgvAf8TJhOkkOGTQM.svg" />
+            <outline text="John Reynolds" title="John Reynolds" description="John Reynolds" type="link" url="https://reynoldsj.co" favicon="/generic.ico" />
+            <outline text="Jorge Arango" title="Jorge Arango" description="Jorge Arango" type="link" url="https://jarango.com/" favicon="https://jarango.com/favicon-32x32.png" />
+            <outline text="Josh Miller" title="Josh Miller" description="Josh Miller" type="link" url="http://jshmllr.com" favicon="https://www.jshmllr.com/favicon.ico" />
+            <outline text="Julie Chabin" title="Julie Chabin" description="Julie Chabin" type="link" url="https://www.julie.design/" favicon="https://uploads-ssl.webflow.com/5ff62621e4a653ce2ada8a92/5ff62621e4a6534d68da8b17_Fav256.png" />
+            <outline text="Kelin Carolyn Zhang" title="Kelin Carolyn Zhang" description="Kelin Carolyn Zhang" type="link" url="https://www.carolynzhang.com" favicon="https://cdn.prod.website-files.com/5f87969568dd5c6d4c225afb/5feda16a45a05d71c2487ae2_sparkles-favicon.png" />
+            <outline text="Kevin Dukkon" title="Kevin Dukkon" description="Kevin Dukkon" type="link" url="https://www.kevdu.co" favicon="https://framerusercontent.com/images/ZJCA18B5g60V6qfPp2hcyOs5rs.png" />
+            <outline text="Kurtis Beavers" title="Kurtis Beavers" description="Kurtis Beavers" type="link" url="http://www.kurtisbeavers.com/" favicon="/generic.ico" />
+            <outline text="Lucas de França" title="Lucas de França" description="Lucas de França" type="link" url="https://www.luxonauta.com" favicon="https://www.luxonauta.com/favicon.ico" />
+            <outline text="Luke Mitchell" title="Luke Mitchell" description="Luke Mitchell" type="link" url="https://interroban.gg" favicon="https://interroban.gg/assets/favicon/icon.svg" />
+            <outline text="Marc Astbury" title="Marc Astbury" description="Marc Astbury" type="link" url="https://marcastbury.com" favicon="https://i0.wp.com/marcastbury.com/wp-content/uploads/2023/11/marc-profile.png" />
+            <outline text="Marcelo Kunze" title="Marcelo Kunze" description="Marcelo Kunze" type="link" url="https://www.marcelokunze.com" favicon="https://www.marcelokunze.com/favicon.png" />
+            <outline text="Matt Webb" title="Matt Webb" description="Matt Webb" type="link" url="https://interconnected.org" favicon="/generic.ico" />
+            <outline text="Moritz Kindler" title="Moritz Kindler" description="Moritz Kindler" type="link" url="https://moritzkindler.com" favicon="https://moritzkindler.com/assets/images/favicon.ico" />
+            <outline text="Naz Hamid" title="Naz Hamid" description="Naz Hamid" type="link" url="https://nazhamid.com" favicon="https://nazhamid.com/assets/img/naz_avatar.png" />
+            <outline text="Niklas Rosén" title="Niklas Rosén" description="Niklas Rosén" type="link" url="https://www.niklasrosen.se" favicon="https://www.niklasrosen.se/favicon.svg" />
+            <outline text="Nikolas Klein" title="Nikolas Klein" description="Nikolas Klein" type="link" url="http://nikolasklein.de" favicon="https://nikolasklein.de/favicon.png" />
+            <outline text="Noah Buscher" title="Noah Buscher" description="Noah Buscher" type="link" url="https://noahbuscher.com" favicon="https://noahbuscher.com/favicon.ico" />
+            <outline text="Nuno Coelho Santos" title="Nuno Coelho Santos" description="Nuno Coelho Santos" type="link" url="https://www.nunocoelhosantos.com/" favicon="https://nunocoelhosantos.com/graphics/favicon-32.png" />
+            <outline text="Pierre Nel" title="Pierre Nel" description="Pierre Nel" type="link" url="https://pierre.io" favicon="https://pierre.io/favicon-16x16.png" />
+            <outline text="Pirijan" title="Pirijan" description="Pirijan" type="link" url="https://pketh.org" favicon="https://pketh.org/favicon.ico?v=3" />
+            <outline text="PJ Onori" title="PJ Onori" description="PJ Onori" type="link" url="https://pjonori.blog/" favicon="/generic.ico" />
+            <outline text="Pranathi Peri" title="Pranathi Peri" description="Pranathi Peri" type="link" url="https://pranathiperi.com" favicon="https://pranathiperi.com/favicon.ico" />
+            <outline text="Rachel Weil" title="Rachel Weil" description="Rachel Weil" type="link" url="http://www.nobadmemories.com/" favicon="/generic.ico" />
+            <outline text="Ramsés Cabello" title="Ramsés Cabello" description="Ramsés Cabello" type="link" url="https://ramses.work" favicon="https://res.cloudinary.com/read-cv/raw/upload/v1/1/siteBuilder/jYrKm50dOMeOO1gz85sZVwBFg2U2/favicon-1720110359677.png" />
+            <outline text="Sam Solomon" title="Sam Solomon" description="Sam Solomon" type="link" url="https://solomon.io/" favicon="https://i0.wp.com/solomon.io/wp-content/uploads/2024/01/SS-Logo.png" />
+            <outline text="Sara Clayton" title="Sara Clayton" description="Sara Clayton" type="link" url="https://www.saraclayton.com/" favicon="https://www.saraclayton.com/favicon.ico" />
+            <outline text="Shawn Farsai" title="Shawn Farsai" description="Shawn Farsai" type="link" url="https://www.shawnfarsai.com/" favicon="https://www.shawnfarsai.com/favicon.ico" />
+            <outline text="Simon Austerberry" title="Simon Austerberry" description="Simon Austerberry" type="link" url="https://www.simonausterberry.co.uk" favicon="https://www.simonausterberry.co.uk/favicon.ico" />
+            <outline text="Stephanie Stimac" title="Stephanie Stimac" description="Stephanie Stimac" type="link" url="https://stephaniestimac.com/" favicon="/generic.ico" />
+            <outline text="Stuart Regan" title="Stuart Regan" description="Stuart Regan" type="link" url="https://stuart.re" favicon="/generic.ico" />
+            <outline text="Ted Goas" title="Ted Goas" description="Ted Goas" type="link" url="https://www.tedgoas.com" favicon="https://www.tedgoas.com/assets/img/favicon.png" />
+            <outline text="Thao N." title="Thao N." description="Thao N." type="link" url="https://thaonf.com" favicon="https://res.cloudinary.com/read-cv/raw/upload/v1/1/siteBuilder/jU2c7UeLmzPmSuDlj78t2T1oef42/favicon-1719638905348.png" />
+            <outline text="Thomas Rico" title="Thomas Rico" description="Thomas Rico" type="link" url="https://www.thomasri.co" favicon="https://www.thomasri.co/favicon.png" />
+            <outline text="Thu Le" title="Thu Le" description="Thu Le" type="link" url="https://thu-le.com" favicon="https://thu-le.com/assets/favicon.png" />
+            <outline text="Toni Lijic" title="Toni Lijic" description="Toni Lijic" type="link" url="https://www.toni.li" favicon="https://www.toni.li/favicon.ico" />
+            <outline text="Trang Bui" title="Trang Bui" description="Trang Bui" type="link" url="https://trangbui.me/" favicon="https://trangbui.me/favicon.png" />
+        </outline>
+        <outline text="Finance" title="Finance" description="Finance" type="folder">
+            <outline text="Patrick McKenzie" title="Patrick McKenzie" description="Patrick McKenzie" type="link" url="https://www.bitsaboutmoney.com/" favicon="https://www.bitsaboutmoney.com/content/images/size/w256h256/2022/12/bam-logo-square-favicon.png" />
+        </outline>
+        <outline text="Personal" title="Personal" description="Personal" type="folder">
+            <outline text="~hedy" title="~hedy" description="~hedy" type="link" url="https://home.hedy.dev/" favicon="https://home.hedy.dev/favicon.90d06356c5e08f398149619025955e54.svg" />
+            <outline text="Aadhavan Srinivasan" title="Aadhavan Srinivasan" description="Aadhavan Srinivasan" type="link" url="https://twomorecents.org/" favicon="/generic.ico" />
+            <outline text="Aaron Leonard" title="Aaron Leonard" description="Aaron Leonard" type="link" url="https://risingthumb.xyz/" favicon="https://risingthumb.xyz/favicon.ico" />
+            <outline text="Abishek Muthian" title="Abishek Muthian" description="Abishek Muthian" type="link" url="https://abishekmuthian.com/" favicon="https://abishekmuthian.com/icons/TheTallestDwarf_logo-96x96.png" />
+            <outline text="Alex Murashko" title="Alex Murashko" description="Alex Murashko" type="link" url="https://alxmurashko.com" favicon="https://cdn.prod.website-files.com/5da0776a675e838577ac3613/61c4f9fd0232e710d1d8d1e4_Favicon%2032.png" />
+            <outline text="Alex Schemagin" title="Alex Schemagin" description="Alex Schemagin" type="link" url="https://www.alexschemagin.com" favicon="https://www.alexschemagin.com/img/favicon.png" />
+            <outline text="Alex Weichart" title="Alex Weichart" description="Alex Weichart" type="link" url="https://alexanderweichart.de/" favicon="https://alexanderweichart.de/static/icon.gif" />
+            <outline text="Alexey Staroselets" title="Alexey Staroselets" description="Alexey Staroselets" type="link" url="https://www.alexeystar.com/" favicon="https://www.alexeystar.com/images/favicon/favicon.ico" />
+            <outline text="Andreas Gohr" title="Andreas Gohr" description="Andreas Gohr" type="link" url="https://www.splitbrain.org" favicon="https://www.splitbrain.org/_media/wiki/favicon.ico" />
+            <outline text="andrés ignacio torres" title="andrés ignacio torres" description="andrés ignacio torres" type="link" url="https://aitorres.com" favicon="https://aitorres.com/favicon.ico" />
+            <outline text="Andrew K. Dinh" title="Andrew K. Dinh" description="Andrew K. Dinh" type="link" url="https://andrewkdinh.com" favicon="https://andrewkdinh.com/favicon.ico" />
+            <outline text="Andrey Ozornin" title="Andrey Ozornin" description="Andrey Ozornin" type="link" url="https://ozorn.in/" favicon="https://ozorn.in/favicon.png" />
+            <outline text="Asmir" title="Asmir" description="Asmir" type="link" url="https://www.hiasmir.com" favicon="https://www.hiasmir.com/favicon.png" />
+            <outline text="Asterisk" title="Asterisk" description="Asterisk" type="link" url="https://asterisk.lol" favicon="https://asterisk.lol/favicon.ico" />
+            <outline text="Ben Kuhn" title="Ben Kuhn" description="Ben Kuhn" type="link" url="https://www.benkuhn.net" favicon="https://www.benkuhn.net/favicon.ico" />
+            <outline text="Benedict Neo" title="Benedict Neo" description="Benedict Neo" type="link" url="https://www.bneo.xyz/" favicon="https://www.bneo.xyz/icon.ico" />
+            <outline text="Benji Taylor" title="Benji Taylor" description="Benji Taylor" type="link" url="https://benji.org" favicon="https://benji.org/icon.png?d947e0f888b5f2d2" />
+            <outline text="bewildered" title="bewildered" description="bewildered" type="link" url="https://bewilde.red/" favicon="https://bewilde.red/favicon.ico" />
+            <outline text="Book of Joe" title="Book of Joe" description="Book of Joe" type="link" url="https://www.bookofjoe.com" favicon="/generic.ico" />
+            <outline text="Boris Kourtoukov" title="Boris Kourtoukov" description="Boris Kourtoukov" type="link" url="https://boris.kourtoukov.com" favicon="https://boris.kourtoukov.com/favicon-32x32.png" />
+            <outline text="Brajeshwar Oinam" title="Brajeshwar Oinam" description="Brajeshwar Oinam" type="link" url="https://brajeshwar.com/" favicon="https://brajeshwar.com/favicon-32x32.png" />
+            <outline text="Bret Comnes" title="Bret Comnes" description="Bret Comnes" type="link" url="https://bret.io/" favicon="https://bret.io/favicons/favicon-32x32.png" />
+            <outline text="Brian Devries" title="Brian Devries" description="Brian Devries" type="link" url="https://brianjdevries.com/" favicon="https://brianjdevries.com/favicon-32x32.png" />
+            <outline text="Bryan Hogan" title="Bryan Hogan" description="Bryan Hogan" type="link" url="https://bryanhogan.com/" favicon="https://bryanhogan.com/favicon.ico" />
+            <outline text="Cassidy Williams" title="Cassidy Williams" description="Cassidy Williams" type="link" url="https://cassidoo.co" favicon="https://cassidoo.co/favicon.ico" />
+            <outline text="Chris " title="Chris " description="Chris " type="link" url="https://entropicthoughts.com" favicon="https://entropicthoughts.com/image/favicon/favicon-48x48.png" />
+            <outline text="Christina Chen" title="Christina Chen" description="Christina Chen" type="link" url="https://christinalj.com/" favicon="https://framerusercontent.com/images/o6dVuqFY5F4Z2ulFOMlVAABzQMg.png" />
+            <outline text="Christopher (Namchee)" title="Christopher (Namchee)" description="Christopher (Namchee)" type="link" url="https://www.namchee.dev" favicon="https://www.namchee.dev/favicon.ico" />
+            <outline text="Clinton Boys" title="Clinton Boys" description="Clinton Boys" type="link" url="https://www.mtsolitary.com/" favicon="https://www.mtsolitary.com/favicon.png" />
+            <outline text="D. Bohdan" title="D. Bohdan" description="D. Bohdan" type="link" url="https://dbohdan.com/" favicon="https://dbohdan.com/favicon.ico" />
+            <outline text="Dalton Rowe" title="Dalton Rowe" description="Dalton Rowe" type="link" url="https://daltonrowe.com/" favicon="https://daltonrowe.com/favicon.svg" />
+            <outline text="Darya Solomenko" title="Darya Solomenko" description="Darya Solomenko" type="link" url="https://www.solomenko.com" favicon="https://www.solomenko.com/wp-content/uploads/2024/08/dasha-favicon.png" />
+            <outline text="Daryl Sun&amp;#39;s Journal" title="Daryl Sun&amp;#39;s Journal" description="Daryl Sun&amp;#39;s Journal" type="link" url="https://blog.darylsun.page/" favicon="https://cdn.darylsun.page/favicon.ico" />
+            <outline text="Dave Stucky" title="Dave Stucky" description="Dave Stucky" type="link" url="https://stucky.tech/" favicon="https://stucky.tech/wp-content/uploads/2022/05/cropped-Logo-32x32.png" />
+            <outline text="Derek Sivers" title="Derek Sivers" description="Derek Sivers" type="link" url="https://sive.rs" favicon="https://sive.rs/favicon.ico" />
+            <outline text="dlmw blog" title="dlmw blog" description="dlmw blog" type="link" url="https://blog.dlmw.ch/" favicon="https://blog.dlmw.ch/favicon.svg" />
+            <outline text="Dominik Weber" title="Dominik Weber" description="Dominik Weber" type="link" url="https://weberdominik.com/" favicon="https://weberdominik.com/favicon.svg" />
+            <outline text="elle" title="elle" description="elle" type="link" url="https://ellesho.me/page/" favicon="https://ellesho.me/favicon.ico" />
+            <outline text="Eric Thomas" title="Eric Thomas" description="Eric Thomas" type="link" url="https://ericthomas.ca" favicon="https://ericthomas.ca/favicon-32x32.png" />
+            <outline text="Evan Pratten" title="Evan Pratten" description="Evan Pratten" type="link" url="https://ewpratten.com" favicon="https://ewp.fyi/pfp.png" />
+            <outline text="Everythings Better With Brentter" title="Everythings Better With Brentter" description="Everythings Better With Brentter" type="link" url="https://brentter.com" favicon="https://brentter.com/favicon.ico" />
+            <outline text="Eyal Goren" title="Eyal Goren" description="Eyal Goren" type="link" url="https://eyalgoren.com/blog" favicon="https://eyalgoren.com/favicon.png" />
+            <outline text="Felix Almer" title="Felix Almer" description="Felix Almer" type="link" url="https://almer.dev/" favicon="https://almer.dev/favicon-32x32.png" />
+            <outline text="Gavin Anderegg" title="Gavin Anderegg" description="Gavin Anderegg" type="link" url="https://anderegg.ca" favicon="https://anderegg.ca/favicon.ico" />
+            <outline text="Gregor Podjed" title="Gregor Podjed" description="Gregor Podjed" type="link" url="https://blog.gregtech.eu/" favicon="https://blog.gregtech.eu/assets/img/favicons/favicon.ico" />
+            <outline text="Guillermo Esteves" title="Guillermo Esteves" description="Guillermo Esteves" type="link" url="https://www.giventotri.com/" favicon="https://www.giventotri.com/favicon.ico" />
+            <outline text="Gwern Branwen" title="Gwern Branwen" description="Gwern Branwen" type="link" url="https://gwern.net" favicon="https://gwern.net/static/img/logo/logo-favicon-small.png" />
+            <outline text="Gyan Anjay" title="Gyan Anjay" description="Gyan Anjay" type="link" url="https://bepbop.github.io" favicon="https://bepbop.github.io/icon.svg" />
+            <outline text="Han Kruiger" title="Han Kruiger" description="Han Kruiger" type="link" url="https://www.hankruiger.com" favicon="https://www.hankruiger.com/favicon.jpg" />
+            <outline text="Harrison Broadbent" title="Harrison Broadbent" description="Harrison Broadbent" type="link" url="https://harrisonbroadbent.com" favicon="/generic.ico" />
+            <outline text="Harsha K N" title="Harsha K N" description="Harsha K N" type="link" url="https://www.harshkn.com" favicon="https://www.harshkn.com/favicon.ico" />
+            <outline text="Hashin Jithu" title="Hashin Jithu" description="Hashin Jithu" type="link" url="https://blog.hashin.me/" favicon="https://blog.hashin.me/images/icon.png" />
+            <outline text="Hayo Bethlehem" title="Hayo Bethlehem" description="Hayo Bethlehem" type="link" url="https://hayobethlehem.nl" favicon="https://hayobethlehem.nl/wp-content/uploads/uncategorised/hb-seal-300x300.png" />
+            <outline text="Henrique Godoy" title="Henrique Godoy" description="Henrique Godoy" type="link" url="https://henriquegodoy.com/" favicon="https://henriquegodoy.com/favicon.svg" />
+            <outline text="Ike Saunders" title="Ike Saunders" description="Ike Saunders" type="link" url="https://ikesau.co/" favicon="https://ikesau.co/favicon.ico" />
+            <outline text="Izzy Muerte" title="Izzy Muerte" description="Izzy Muerte" type="link" url="https://izzys.casa/" favicon="/generic.ico" />
+            <outline text="J. Carlos Roldán" title="J. Carlos Roldán" description="J. Carlos Roldán" type="link" url="https://jcarlosroldan.com" favicon="https://jcarlosroldan.com/img/icon/favicon.ico" />
+            <outline text="Jacob Filipp" title="Jacob Filipp" description="Jacob Filipp" type="link" url="https://jacobfilipp.com" favicon="https://jacobfilipp.com/wp-content/uploads/2024/01/cropped-favicon-32x32.gif" />
+            <outline text="Jahir Fiquitiva" title="Jahir Fiquitiva" description="Jahir Fiquitiva" type="link" url="https://jahir.dev" favicon="https://jahir.dev/media/brand/favicon114.png" />
+            <outline text="Jake Reich" title="Jake Reich" description="Jake Reich" type="link" url="https://www.jake-reich.co.uk/" favicon="https://www.jake-reich.co.uk/icon.png?31612e76cc4f190c" />
+            <outline text="James" title="James" description="James" type="link" url="https://jamesg.blog" favicon="https://jamesg.blog/assets/mascot/mascot.svg" />
+            <outline text="Jamie Thingelstad" title="Jamie Thingelstad" description="Jamie Thingelstad" type="link" url="https://www.thingelstad.com/" favicon="https://micro.blog/jthingelstad/favicon.png" />
+            <outline text="Jatin Nagpal" title="Jatin Nagpal" description="Jatin Nagpal" type="link" url="https://blog.jatinnagpal.com/" favicon="/generic.ico" />
+            <outline text="joe jenett" title="joe jenett" description="joe jenett" type="link" url="https://simply.joejenett.com/" favicon="https://simply.joejenett.com/images/oj-0623-32.png" />
+            <outline text="John YS" title="John YS" description="John YS" type="link" url="https://blog.johnys.io" favicon="https://blog.johnys.io/content/images/size/w256h256/2024/11/jys-profile-circle.png" />
+            <outline text="Johnny Webber" title="Johnny Webber" description="Johnny Webber" type="link" url="https://johnnywebber.com" favicon="https://johnnywebber.com/wp-content/uploads/2024/10/cropped-me-32x32.png" />
+            <outline text="Jon Ericson" title="Jon Ericson" description="Jon Ericson" type="link" url="https://jlericson.com" favicon="https://jlericson.com/favicon.ico" />
+            <outline text="Jordan Gonen" title="Jordan Gonen" description="Jordan Gonen" type="link" url="https://www.jordangonen.com" favicon="/generic.ico" />
+            <outline text="JourneyToLunar" title="JourneyToLunar" description="JourneyToLunar" type="link" url="https://journeytolunar.com" favicon="/generic.ico" />
+            <outline text="Just Another Internet Guy" title="Just Another Internet Guy" description="Just Another Internet Guy" type="link" url="https://justanotherinternetguy.github.io/" favicon="/generic.icon" />
+            <outline text="Justus Perlwitz" title="Justus Perlwitz" description="Justus Perlwitz" type="link" url="https://www.justus.pw/" favicon="https://www.justus.pw/favicon.png" />
+            <outline text="Kemal" title="Kemal" description="Kemal" type="link" url="https://kemal.earth" favicon="https://kemal.earth/favicon.ico" />
+            <outline text="Kenneth Reitz" title="Kenneth Reitz" description="Kenneth Reitz" type="link" url="https://kennethreitz.org" favicon="/generic.ico" />
+            <outline text="Kim Burgess" title="Kim Burgess" description="Kim Burgess" type="link" url="https://simple.industries/" favicon="https://simple.industries/icon.svg" />
+            <outline text="Lev Goncharov" title="Lev Goncharov" description="Lev Goncharov" type="link" url="https://www.goncharov.xyz/" favicon="https://www.goncharov.xyz/favicon.ico" />
+            <outline text="Lloyd Atkinson" title="Lloyd Atkinson" description="Lloyd Atkinson" type="link" url="https://www.lloydatkinson.net/" favicon="https://www.lloydatkinson.net/favicon.svg" />
+            <outline text="Lu Wilson" title="Lu Wilson" description="Lu Wilson" type="link" url="https://www.todepond.com" favicon="https://www.todepond.com/favicon.png" />
+            <outline text="MacKenzie Cumings" title="MacKenzie Cumings" description="MacKenzie Cumings" type="link" url="https://somerby.net/mack/" favicon="https://somerby.net/mack/favicon.ico" />
+            <outline text="Mangesh" title="Mangesh" description="Mangesh" type="link" url="https://mangeshm.xyz/" favicon="https://avatars.githubusercontent.com/u/82205152" />
+            <outline text="Marc Littlemore" title="Marc Littlemore" description="Marc Littlemore" type="link" url="https://marclittlemore.com" favicon="https://www.marclittlemore.com/favicons/favicon-32x32.png" />
+            <outline text="Martin Irwin" title="Martin Irwin" description="Martin Irwin" type="link" url="http://martin-irwin.github.io/" favicon="/generic.ico" />
+            <outline text="Martin Rue" title="Martin Rue" description="Martin Rue" type="link" url="https://martinrue.com" favicon="https://martinrue.com/assets/images/favicon/favicon-32x32.png" />
+            <outline text="Mathias Müller" title="Mathias Müller" description="Mathias Müller" type="link" url="https://mmathias.com/" favicon="https://mmathias.com/assets/icons/icon.svg" />
+            <outline text="Matt Sephton" title="Matt Sephton" description="Matt Sephton" type="link" url="https://blog.gingerbeardman.com" favicon="/generic.ico" />
+            <outline text="Max Bo" title="Max Bo" description="Max Bo" type="link" url="https://maxbo.me/" favicon="https://maxbo.me/favicon.ico" />
+            <outline text="Max Stoiber" title="Max Stoiber" description="Max Stoiber" type="link" url="https://mxstbr.com" favicon="https://mxstbr.com/icon.png" />
+            <outline text="Max Weylandt" title="Max Weylandt" description="Max Weylandt" type="link" url="https://www.maxweylandt.com/" favicon="https://www.maxweylandt.com/favicon.ico" />
+            <outline text="Michael Kupietz" title="Michael Kupietz" description="Michael Kupietz" type="link" url="https://michaelkupietz.com/" favicon="/generic.ico" />
+            <outline text="Mihir Naik" title="Mihir Naik" description="Mihir Naik" type="link" url="https://www.mihirnaik.com" favicon="https://www.mihirnaik.com/wp-content/uploads/2020/03/favicon-32x32-2.png" />
+            <outline text="Mike Morris" title="Mike Morris" description="Mike Morris" type="link" url="https://one.mikro2nd.net/" favicon="https://one.mikro2nd.net/images/favicon.ico" />
+            <outline text="Monica Cellio" title="Monica Cellio" description="Monica Cellio" type="link" url="https://cellio.org/" favicon="https://cellio.org/media/themes/berlin.png" />
+            <outline text="Mukesh Gupta" title="Mukesh Gupta" description="Mukesh Gupta" type="link" url="https://rmukeshgupta.com/" favicon="https://rmukeshgupta.com/favicon.ico" />
+            <outline text="Nathan Upchurch" title="Nathan Upchurch" description="Nathan Upchurch" type="link" url="https://nathanupchurch.com/" favicon="https://nathanupchurch.com/img/logo_favicon.svg" />
+            <outline text="Niels Gouman" title="Niels Gouman" description="Niels Gouman" type="link" url="https://nizzlay.com/" favicon="https://nizzlay.com/img/favicon.ico" />
+            <outline text="Nikhil Vishnu" title="Nikhil Vishnu" description="Nikhil Vishnu" type="link" url="https://nikhilvishnu.com/" favicon="/generic.ico" />
+            <outline text="Niklas Pivic" title="Niklas Pivic" description="Niklas Pivic" type="link" url="https://garden.pivic.com/" favicon="https://garden.pivic.com/favicon.ico" />
+            <outline text="Norman Koehring" title="Norman Koehring" description="Norman Koehring" type="link" url="https://koehr.ing" favicon="/generic.ico" />
+            <outline text="Óscar Fernández" title="Óscar Fernández" description="Óscar Fernández" type="link" url="https://osc.garden/" favicon="https://osc.garden/img/seedling.png" />
+            <outline text="Paras Chopra" title="Paras Chopra" description="Paras Chopra" type="link" url="https://invertedpassion.com/" favicon="https://invertedpassion.com/wp-content/uploads/2018/04/cropped-inverted-passion-face-512-32x32.jpg" />
+            <outline text="Parth Patel" title="Parth Patel" description="Parth Patel" type="link" url="https://parth.ski" favicon="https://parth.ski/favicon.ico" />
+            <outline text="Paul Cobbaut" title="Paul Cobbaut" description="Paul Cobbaut" type="link" url="https://cobbaut.be/" favicon="https://cobbaut.be/favicon.ico" />
+            <outline text="Paul Lutus" title="Paul Lutus" description="Paul Lutus" type="link" url="https://arachnoid.com" favicon="https://arachnoid.com/favicon.ico" />
+            <outline text="Pavel Kovar" title="Pavel Kovar" description="Pavel Kovar" type="link" url="https://pkworld.xyz/" favicon="https://pkworld.xyz/favicon.svg" />
+            <outline text="Pekka Laiho" title="Pekka Laiho" description="Pekka Laiho" type="link" url="https://laihoconsulting.com/" favicon="https://laihoconsulting.com/favicon.png" />
+            <outline text="Pete Ader" title="Pete Ader" description="Pete Ader" type="link" url="https://petesprojects.net/" favicon="/generic.ico" />
+            <outline text="Pranit Bauva" title="Pranit Bauva" description="Pranit Bauva" type="link" url="https://bauva.com" favicon="/generic.ico" />
+            <outline text="Rach Smith" title="Rach Smith" description="Rach Smith" type="link" url="https://rachsmith.com" favicon="https://rachsmith.com/favicon-32x32.png" />
+            <outline text="Raphael Pour" title="Raphael Pour" description="Raphael Pour" type="link" url="https://evilcookie.de/" favicon="/generic.ico" />
+            <outline text="Raphael Salaja" title="Raphael Salaja" description="Raphael Salaja" type="link" url="https://www.raphaelsalaja.com" favicon="https://www.raphaelsalaja.com/icon" />
+            <outline text="Rico Trebeljahr" title="Rico Trebeljahr" description="Rico Trebeljahr" type="link" url="https://ricos.site" favicon="https://ricos.site/favicon/favicon-32x32.png" />
+            <outline text="Rinas" title="Rinas" description="Rinas" type="link" url="https://onerinas.com" favicon="/generic.ico" />
+            <outline text="Rishikesh Sreehari" title="Rishikesh Sreehari" description="Rishikesh Sreehari" type="link" url="https://rishikeshs.com/" favicon="/generic.ico" />
+            <outline text="Rob Kohr" title="Rob Kohr" description="Rob Kohr" type="link" url="https://robkohr.com/" favicon="https://robkohr.com/favicon.ico" />
+            <outline text="Robert Kingett" title="Robert Kingett" description="Robert Kingett" type="link" url="https://robertkingett.com/" favicon="/generic.ico" />
+            <outline text="Ronalds Vilciņš" title="Ronalds Vilciņš" description="Ronalds Vilciņš" type="link" url="https://ronaldsvilcins.com/" favicon="https://ronaldsvilcins.com/favicon.png" />
+            <outline text="Roshan Shibu" title="Roshan Shibu" description="Roshan Shibu" type="link" url="https://www.roshanshibu.com/" favicon="https://www.roshanshibu.com/favicon.ico" />
+            <outline text="Rosia Evans" title="Rosia Evans" description="Rosia Evans" type="link" url="https://rosia.me" favicon="https://rosia.me/willow.ico" />
+            <outline text="Ruban SK" title="Ruban SK" description="Ruban SK" type="link" url="https://www.skruban.com/" favicon="https://www.skruban.com/images/favicon.webp" />
+            <outline text="Scattershot" title="Scattershot" description="Scattershot" type="link" url="https://scattershot.blog/" favicon="https://micro.blog/scattershot/favicon.png" />
+            <outline text="Shreyas Prakash" title="Shreyas Prakash" description="Shreyas Prakash" type="link" url="https://www.shreyasprakash.com" favicon="https://shreyasprakash.com/content/images/size/w256h256/2024/07/Group-2-2.png" />
+            <outline text="Shubh A. Chudasama" title="Shubh A. Chudasama" description="Shubh A. Chudasama" type="link" url="https://cshubh.com/" favicon="https://cshubh.com/favicon.ico" />
+            <outline text="Shyam Jos" title="Shyam Jos" description="Shyam Jos" type="link" url="https://shyamjos.com/" favicon="https://shyamjos.com/favicon.ico" />
+            <outline text="Simon Vreeman" title="Simon Vreeman" description="Simon Vreeman" type="link" url="https://vreeman.com" favicon="https://vreeman.com/favicon.ico" />
+            <outline text="Simone" title="Simone" description="Simone" type="link" url="https://simone.computer" favicon="https://simone.computer/android-chrome-192x192.png" />
+            <outline text="sixey.es" title="sixey.es" description="sixey.es" type="link" url="https://sixey.es/" favicon="https://sixey.es/favicon.ico" />
+            <outline text="Sofian Bettayeb" title="Sofian Bettayeb" description="Sofian Bettayeb" type="link" url="https://sofianbettayeb.com" favicon="https://sofianbettayeb.com/images/favicon.png" />
+            <outline text="Spencer Scorcelletti" title="Spencer Scorcelletti" description="Spencer Scorcelletti" type="link" url="https://spenc.es/" favicon="https://spenc.es/favicon-16x16.png" />
+            <outline text="Stefan Imhoff" title="Stefan Imhoff" description="Stefan Imhoff" type="link" url="https://www.stefanimhoff.de" favicon="https://www.stefanimhoff.de/favicon.ico" />
+            <outline text="Steven Scrawls" title="Steven Scrawls" description="Steven Scrawls" type="link" url="https://stevenscrawls.com" favicon="/generic.ico" />
+            <outline text="Taylor Troesh" title="Taylor Troesh" description="Taylor Troesh" type="link" url="https://taylor.town" favicon="https://taylor.town/favicon.ico" />
+            <outline text="Thomas Paulin" title="Thomas Paulin" description="Thomas Paulin" type="link" url="https://thomaspaulin.me/" favicon="https://thomaspaulin.me/favicon.ico" />
+            <outline text="Tiago Rangel" title="Tiago Rangel" description="Tiago Rangel" type="link" url="https://tiagorangel.com" favicon="/generic.ico" />
+            <outline text="Tim Romero" title="Tim Romero" description="Tim Romero" type="link" url="https://www.disruptingjapan.com" favicon="https://substackcdn.com/image/fetch/w_170,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58879cc3-9806-4513-a6b9-410bd727c5c2_1280x1280.png" />
+            <outline text="Tom" title="Tom" description="Tom" type="link" url="https://ttntm.me/" favicon="https://ttntm.me/favicon.ico" />
+            <outline text="Tracy Durnell" title="Tracy Durnell" description="Tracy Durnell" type="link" url="https://tracydurnell.com" favicon="https://tracydurnell.com/favicon.ico" />
+            <outline text="Tyler Knows Nothing" title="Tyler Knows Nothing" description="Tyler Knows Nothing" type="link" url="https://tylerknowsnothing.com" favicon="/generic.ico" />
+            <outline text="Udara Jay" title="Udara Jay" description="Udara Jay" type="link" url="https://udara.io" favicon="https://udara.io/favicon.ico" />
+            <outline text="Vedran Miletić" title="Vedran Miletić" description="Vedran Miletić" type="link" url="https://vedran.miletic.net/" favicon="https://vedran.miletic.net/images/favicon-32x32.png" />
+            <outline text="Victor Stanciu" title="Victor Stanciu" description="Victor Stanciu" type="link" url="https://tegowerk.eu/" favicon="https://tegowerk.eu/favicon.ico" />
+            <outline text="wargaluk" title="wargaluk" description="wargaluk" type="link" url="https://wargaluk.com/" favicon="https://wargaluk.com/favicon.ico" />
+            <outline text="Will" title="Will" description="Will" type="link" url="https://ides.dev/" favicon="https://ides.dev/assets/images/favicon.png" />
+            <outline text="William Hleucka" title="William Hleucka" description="William Hleucka" type="link" url="https://williamhleucka.com" favicon="https://williamhleucka.com/favicon.ico" />
+            <outline text="Winnie Lim" title="Winnie Lim" description="Winnie Lim" type="link" url="https://winnielim.org" favicon="https://winnielim.org/wp-includes/images/w-logo-blue-white-bg.png" />
+            <outline text="Winston Cooke" title="Winston Cooke" description="Winston Cooke" type="link" url="https://www.winstoncooke.com/" favicon="/generic.ico" />
+            <outline text="Witte Grond" title="Witte Grond" description="Witte Grond" type="link" url="https://www.wittegrond.net/" favicon="https://www.wittegrond.net/favicon.ico" />
+            <outline text="Yuval Adam" title="Yuval Adam" description="Yuval Adam" type="link" url="https://yuv.al" favicon="https://yuv.al/static/img/favicon.png" />
+            <outline text="Zygimantas Berziunas" title="Zygimantas Berziunas" description="Zygimantas Berziunas" type="link" url="https://zygimantas.com/" favicon="https://zygimantas.com/favicon.ico" />
+        </outline>
+        <outline text="Photo Video Production" title="Photo Video Production" description="Photo Video Production" type="folder">
+            <outline text="Bill (ChillBillDill)" title="Bill (ChillBillDill)" description="Bill (ChillBillDill)" type="link" url="https://www.chillbilldill.com/" favicon="https://www.chillbilldill.com/content/images/size/w192h192/size/w256h256/2023/02/faviconbig-1.png" />
+            <outline text="Kaitlin McKinnon" title="Kaitlin McKinnon" description="Kaitlin McKinnon" type="link" url="https://www.kaitlinmckinnon.com" favicon="https://www.kaitlinmckinnon.com/favicon.ico" />
+            <outline text="Robert Roose" title="Robert Roose" description="Robert Roose" type="link" url="https://roose.digital/en" favicon="https://roose.digital/themes/molyneux/favicon/favicon.ico" />
+            <outline text="Spaqin" title="Spaqin" description="Spaqin" type="link" url="https://spaq.in/" favicon="/generic.ico" />
+        </outline>
+        <outline text="Technology" title="Technology" description="Technology" type="folder">
+            <outline text="Aayush Sahu" title="Aayush Sahu" description="Aayush Sahu" type="link" url="https://aayushsahu.com/" favicon="https://aayushsahu.com/favicon-32x32.png" />
+            <outline text="Abhishek Banthia" title="Abhishek Banthia" description="Abhishek Banthia" type="link" url="https://abhishekbanthia.com/" favicon="https://secure.gravatar.com/blavatar/fa8b5d42f0523127422206d8e3477f10?s=16" />
+            <outline text="Alberto Llamas" title="Alberto Llamas" description="Alberto Llamas" type="link" url="https://www.deeplifelearning.com/" favicon="https://www.deeplifelearning.com/favicon.ico" />
+            <outline text="Albin Groen" title="Albin Groen" description="Albin Groen" type="link" url="https://abgn.me" favicon="/generic.ico" />
+            <outline text="Alec Muffett" title="Alec Muffett" description="Alec Muffett" type="link" url="https://alecmuffett.com/blog" favicon="https://alecmuffett.com/wp-content/uploads/2025/01/dropsafe-square-150x150.jpg" />
+            <outline text="Alex Tiniuc" title="Alex Tiniuc" description="Alex Tiniuc" type="link" url="https://tiniuc.com/" favicon="/generic.ico" />
+            <outline text="Alexander Ameye" title="Alexander Ameye" description="Alexander Ameye" type="link" url="https://ameye.dev/" favicon="https://ameye.dev/favicon/favicon-32x32.png" />
+            <outline text="Alexander Isora" title="Alexander Isora" description="Alexander Isora" type="link" url="https://isora.me/" favicon="https://unicorn-images.b-cdn.net/4494795e-a3be-4655-a89f-c5f4f130b006?optimizer=gif" />
+            <outline text="Alexander Zarebski" title="Alexander Zarebski" description="Alexander Zarebski" type="link" url="https://aezarebski.github.io" favicon="https://aezarebski.github.io/resources/nicemacs-favicon.png" />
+            <outline text="Alok Menghrajani" title="Alok Menghrajani" description="Alok Menghrajani" type="link" url="https://www.quaxio.com/" favicon="https://www.quaxio.com/favicon.svg" />
+            <outline text="Amit Merchant" title="Amit Merchant" description="Amit Merchant" type="link" url="https://amitmerchant.com" favicon="https://amitmerchant.com/favicon.ico" />
+            <outline text="Amos" title="Amos" description="Amos" type="link" url="https://fasterthanli.me" favicon="https://cdn.fasterthanli.me/content/img/favicon~679ae9c272874bba.webp" />
+            <outline text="Andreas Jaggi" title="Andreas Jaggi" description="Andreas Jaggi" type="link" url="https://blog.x-way.org/" favicon="https://blog.x-way.org/gfx/favicon.ico" />
+            <outline text="Andrei Ciobanu" title="Andrei Ciobanu" description="Andrei Ciobanu" type="link" url="https://www.andreinc.net/" favicon="/generic.ico" />
+            <outline text="Andrew Walpole" title="Andrew Walpole" description="Andrew Walpole" type="link" url="https://andrewwalpole.com/" favicon="https://andrewwalpole.com/favicon.svg" />
+            <outline text="Andy Terrel" title="Andy Terrel" description="Andy Terrel" type="link" url="https://andy.terrel.us" favicon="/generic.ico" />
+            <outline text="Aneesh Sathe" title="Aneesh Sathe" description="Aneesh Sathe" type="link" url="https://aneeshsathe.com" favicon="https://aneeshsathe.com/wp-content/uploads/2025/01/cropped-img_0621.jpeg?w=32" />
+            <outline text="Ash Connolly" title="Ash Connolly" description="Ash Connolly" type="link" url="https://ashconnolly.com" favicon="https://ashconnolly.com/favicon.png" />
+            <outline text="Ash Smith" title="Ash Smith" description="Ash Smith" type="link" url="https://www.drashsmith.com/" favicon="https://www.drashsmith.com/static/icon.png" />
+            <outline text="Ashish Bhatia" title="Ashish Bhatia" description="Ashish Bhatia" type="link" url="https://ashishb.net/" favicon="https://ashishb.net/favicon.ico" />
+            <outline text="Autodidacts" title="Autodidacts" description="Autodidacts" type="link" url="https://www.autodidacts.io/" favicon="https://www.autodidacts.io/content/images/size/w256h256/2022/10/autodidacts-logo-small.png" />
+            <outline text="Aycan Gulez" title="Aycan Gulez" description="Aycan Gulez" type="link" url="https://lackofimagination.org/" favicon="https://lackofimagination.org/favicon-32x32.png" />
+            <outline text="Ben Congdon" title="Ben Congdon" description="Ben Congdon" type="link" url="https://benjamincongdon.me" favicon="https://benjamincongdon.me/img/icon.png" />
+            <outline text="Ben Hekster" title="Ben Hekster" description="Ben Hekster" type="link" url="https://www.hekster.org/" favicon="/generic.ico" />
+            <outline text="Ben Weidig" title="Ben Weidig" description="Ben Weidig" type="link" url="https://belief-driven-design.com/" favicon="https://belief-driven-design.com/favicons/favicon-32x32.png" />
+            <outline text="Bernd Verst" title="Bernd Verst" description="Bernd Verst" type="link" url="https://bernd.dev/" favicon="https://bernd.dev/favicon.ico" />
+            <outline text="Brandur" title="Brandur" description="Brandur" type="link" url="https://brandur.org" favicon="https://brandur.org/assets/images/favicon/favicon-32.jpg" />
+            <outline text="Brendan Lentz" title="Brendan Lentz" description="Brendan Lentz" type="link" url="https://www.brendanlentz.com/" favicon="https://www.brendanlentz.com/favicon.ico" />
+            <outline text="Brent Deverman" title="Brent Deverman" description="Brent Deverman" type="link" url="https://www.deverman.org/" favicon="https://www.deverman.org/favicon.ico" />
+            <outline text="Brett Cannon" title="Brett Cannon" description="Brett Cannon" type="link" url="https://snarky.ca/" favicon="https://snarky.ca/favicon.ico" />
+            <outline text="Brian Hicks" title="Brian Hicks" description="Brian Hicks" type="link" url="https://bytes.zone" favicon="/generic.ico" />
+            <outline text="Brian Mayer" title="Brian Mayer" description="Brian Mayer" type="link" url="https://blog.terminal.pink" favicon="/generic.ico" />
+            <outline text="Brian Peek" title="Brian Peek" description="Brian Peek" type="link" url="https://brianpeek.com/" favicon="https://brianpeek.com/favicon.ico" />
+            <outline text="Brittany Cheng" title="Brittany Cheng" description="Brittany Cheng" type="link" url="http://brittanycheng.com/" favicon="/generic.ico" />
+            <outline text="Bryan Lee" title="Bryan Lee" description="Bryan Lee" type="link" url="https://www.bryanleetc.com/" favicon="https://www.bryanleetc.com/theme/img/favicon.ico" />
+            <outline text="Bryce Kerley" title="Bryce Kerley" description="Bryce Kerley" type="link" url="https://blog.brycekerley.net/" favicon="/generic.ico" />
+            <outline text="Bunnie" title="Bunnie" description="Bunnie" type="link" url="https://www.bunniestudios.com/" favicon="https://www.bunniestudios.com/favicon.ico" />
+            <outline text="Cahya Wibawa" title="Cahya Wibawa" description="Cahya Wibawa" type="link" url="https://cahyawibawa.com" favicon="https://cahyawibawa.com/icon" />
+            <outline text="Caleb Jay Rogers" title="Caleb Jay Rogers" description="Caleb Jay Rogers" type="link" url="https://calebjay.com/" favicon="https://calebjay.com/favicon.ico" />
+            <outline text="Casey Primozic" title="Casey Primozic" description="Casey Primozic" type="link" url="https://cprimozic.net/" favicon="https://cprimozic.b-cdn.net/favicon-32x32.png" />
+            <outline text="Cassidy Williams" title="Cassidy Williams" description="Cassidy Williams" type="link" url="https://cassidoo.co/" favicon="https://cassidoo.co/favicon.ico" />
+            <outline text="Catalin Pit" title="Catalin Pit" description="Catalin Pit" type="link" url="https://catalins.tech" favicon="https://catalins.tech/favicon.ico" />
+            <outline text="Celestine Yeh" title="Celestine Yeh" description="Celestine Yeh" type="link" url="https://www.celestineyeh.com/" favicon="https://images.squarespace-cdn.com/content/5a4c933a8fd4d255d22eda93/1542609251239-R66KAGJJS7R715S2EWVZ/Picture1.png" />
+            <outline text="Charlie Kindel" title="Charlie Kindel" description="Charlie Kindel" type="link" url="https://ceklog.kindel.com/" favicon="https://ceklog.kindel.com/favicon.ico" />
+            <outline text="Charmaine Lee" title="Charmaine Lee" description="Charmaine Lee" type="link" url="https://www.charmaineklee.com/" favicon="https://images.squarespace-cdn.com/content/56725e7240667a634d12bdd8/1587460815850-LPA2DB0KDCULMYSLAEGG/android-chrome-192x192.png" />
+            <outline text="Chloe Chia" title="Chloe Chia" description="Chloe Chia" type="link" url="https://chloechia.com/" favicon="https://freight.cargo.site/t/original/i/3eb17c6fc77685d5cb78cffd8cff8e74279a60a7b1c5cf8144f2a25e8d5c5acd/Screen-Shot-2021-12-05-at-12.01.57-PM.ico" />
+            <outline text="Chris Ritchie" title="Chris Ritchie" description="Chris Ritchie" type="link" url="https://chrisritchie.org/kilroy/" favicon="https://chrisritchie.org/kilroy/res/favicon.ico" />
+            <outline text="Christian Fei" title="Christian Fei" description="Christian Fei" type="link" url="https://cri.dev/" favicon="https://cri.dev/assets/images/cf4.64x64.webp" />
+            <outline text="Christina Warren" title="Christina Warren" description="Christina Warren" type="link" url="http://christina.is/" favicon="/generic.ico" />
+            <outline text="Clément Sauvage" title="Clément Sauvage" description="Clément Sauvage" type="link" url="https://www.clemsau.com/" favicon="https://www.clemsau.com/favicon.ico" />
+            <outline text="Damien Guard" title="Damien Guard" description="Damien Guard" type="link" url="https://damieng.com" favicon="https://damieng.com/favicon-32x32.png" />
+            <outline text="Dan Slimmon" title="Dan Slimmon" description="Dan Slimmon" type="link" url="https://blog.danslimmon.com/" favicon="/generic.ico" />
+            <outline text="Daniël de Kok" title="Daniël de Kok" description="Daniël de Kok" type="link" url="https://danieldk.eu/" favicon="https://danieldk.eu/static/icon.png" />
+            <outline text="Daniel Grzelak" title="Daniel Grzelak" description="Daniel Grzelak" type="link" url="https://dagrz.com" favicon="https://dagrz.com/images/favicon-16x16.png" />
+            <outline text="Darek Kay" title="Darek Kay" description="Darek Kay" type="link" url="https://darekkay.com/" favicon="https://darekkay.com/favicon.ico" />
+            <outline text="David Anson" title="David Anson" description="David Anson" type="link" url="https://dlaa.me/" favicon="/generic.ico" />
+            <outline text="David Eppstein" title="David Eppstein" description="David Eppstein" type="link" url="https://11011110.github.io/blog" favicon="https://11011110.github.io/blog/assets/favicon.ico" />
+            <outline text="David Singleton" title="David Singleton" description="David Singleton" type="link" url="https://blog.singleton.io/" favicon="https://blog.singleton.io/favicon.ico" />
+            <outline text="Deborah Zhang" title="Deborah Zhang" description="Deborah Zhang" type="link" url="http://deborahzhang.com/" favicon="/generic.ico" />
+            <outline text="Declan Chidlow" title="Declan Chidlow" description="Declan Chidlow" type="link" url="https://vale.rocks" favicon="/generic.ico" />
+            <outline text="Den Delimarsky" title="Den Delimarsky" description="Den Delimarsky" type="link" url="https://den.dev" favicon="https://assets.den.dev/images/icon/apple-touch-icon.png" />
+            <outline text="Dhrumil Patel" title="Dhrumil Patel" description="Dhrumil Patel" type="link" url="https://dhrumil.ca" favicon="https://dhrumil.ca/assets/image/favicon.ico" />
+            <outline text="Didier Catz" title="Didier Catz" description="Didier Catz" type="link" url="https://didiercatz.com" favicon="https://didiercatz.com/favicon.ico?v=2" />
+            <outline text="Digi-Ing" title="Digi-Ing" description="Digi-Ing" type="link" url="https://digi-ing.de/en/" favicon="https://digi-ing.de/wp-content/uploads/2020/05/cropped-Digi-Ing_ohne_Schrift-1.jpg" />
+            <outline text="Doan Tran Minh Thanh" title="Doan Tran Minh Thanh" description="Doan Tran Minh Thanh" type="link" url="https://doantranminhthanh.com" favicon="https://doantranminhthanh.com/icon.svg" />
+            <outline text="Duncan Mackenzie" title="Duncan Mackenzie" description="Duncan Mackenzie" type="link" url="https://www.duncanmackenzie.net/" favicon="https://www.duncanmackenzie.net/favicon.ico" />
+            <outline text="Dylan Fisher" title="Dylan Fisher" description="Dylan Fisher" type="link" url="https://www.dylanfisher.com" favicon="https://www.dylanfisher.com/assets/images/favicon.png" />
+            <outline text="Ed Freitas" title="Ed Freitas" description="Ed Freitas" type="link" url="https://www.edfreitas.me/" favicon="https://www.edfreitas.me/assets/img/favicon-16x16.png" />
+            <outline text="Elias Hernandis" title="Elias Hernandis" description="Elias Hernandis" type="link" url="https://hernandis.me/" favicon="https://hernandis.me/static/favicon.png" />
+            <outline text="Elmar Klausmeier" title="Elmar Klausmeier" description="Elmar Klausmeier" type="link" url="https://eklausmeier.goip.de" favicon="https://eklausmeier.goip.de/favicon.ico" />
+            <outline text="Ephraim Duncan" title="Ephraim Duncan" description="Ephraim Duncan" type="link" url="https://duncan.land" favicon="https://duncan.land/icon" />
+            <outline text="Erlend Sogge Heggen" title="Erlend Sogge Heggen" description="Erlend Sogge Heggen" type="link" url="https://blog.erlend.sh/" favicon="https://cdn.writeas.net/favicon.ico" />
+            <outline text="Flavio Copes" title="Flavio Copes" description="Flavio Copes" type="link" url="https://flaviocopes.com" favicon="https://flaviocopes.com/favicon.ico" />
+            <outline text="Frederick Vanbrabant" title="Frederick Vanbrabant" description="Frederick Vanbrabant" type="link" url="https://frederickvanbrabant.com/" favicon="https://frederickvanbrabant.com/images/favicon_hu599050eff2131ff884e6a5ecaf3c86b4_8258_144x0_resize_lanczos_3.png" />
+            <outline text="Gabe Wolford" title="Gabe Wolford" description="Gabe Wolford" type="link" url="https://gabewolford.com" favicon="https://gabewolford.com/favicon.ico" />
+            <outline text="Graham Lee" title="Graham Lee" description="Graham Lee" type="link" url="https://sicpers.info/blog" favicon="https://www.sicpers.info/wp-content/uploads/2014/08/explosion.jpg" />
+            <outline text="Guillaume Lethuillier" title="Guillaume Lethuillier" description="Guillaume Lethuillier" type="link" url="https://glthr.com/" favicon="https://cdn.hashnode.com/res/hashnode/image/upload/v1611242173172/AOX1gE2jc.png" />
+            <outline text="Hamish Campbell" title="Hamish Campbell" description="Hamish Campbell" type="link" url="https://hamishcampbell.com" favicon="https://hamishcampbell.com/wp-content/uploads/2024/03/fire.png" />
+            <outline text="Horace Guy" title="Horace Guy" description="Horace Guy" type="link" url="https://blog.horaceg.xyz/" favicon="/generic.ico" />
+            <outline text="Hynek Schlawack" title="Hynek Schlawack" description="Hynek Schlawack" type="link" url="https://hynek.me/" favicon="https://hynek.me/favicon-32x32.png" />
+            <outline text="Igor Kulman" title="Igor Kulman" description="Igor Kulman" type="link" url="https://blog.kulman.sk" favicon="https://blog.kulman.sk/favicon.ico" />
+            <outline text="Imran Khan" title="Imran Khan" description="Imran Khan" type="link" url="https://imran-khan.com" favicon="https://imran-khan.com/favicon-16x16.png" />
+            <outline text="İren Saltalı" title="İren Saltalı" description="İren Saltalı" type="link" url="https://irensaltali.com/" favicon="https://irensaltali.com/content/images/2025/01/IMG_7093_bw_sq-1.jpg" />
+            <outline text="Ivan Milosavljevic" title="Ivan Milosavljevic" description="Ivan Milosavljevic" type="link" url="https://thejavaguy.org/" favicon="/generic.ico" />
+            <outline text="J. B. Crawford" title="J. B. Crawford" description="J. B. Crawford" type="link" url="https://jbcrawford.us/" favicon="https://jbcrawford.us/favicon.png" />
+            <outline text="Jacques Corby-Tuech" title="Jacques Corby-Tuech" description="Jacques Corby-Tuech" type="link" url="https://www.jacquescorbytuech.com/" favicon="https://www.jacquescorbytuech.com/core/misc/favicon.ico" />
+            <outline text="Jeff Atwood" title="Jeff Atwood" description="Jeff Atwood" type="link" url="https://blog.codinghorror.com/" favicon="https://blog.codinghorror.com/favicon.png" />
+            <outline text="Jeff Geerling" title="Jeff Geerling" description="Jeff Geerling" type="link" url="https://www.jeffgeerling.com" favicon="https://www.jeffgeerling.com/themes/jeffgeerling/favicon.ico" />
+            <outline text="Jeff Johnson" title="Jeff Johnson" description="Jeff Johnson" type="link" url="https://lapcatsoftware.com/articles/" favicon="/generic.ico" />
+            <outline text="Jeff Sandquist" title="Jeff Sandquist" description="Jeff Sandquist" type="link" url="https://www.jeffsandquist.com/" favicon="https://i0.wp.com/jeffsandquist.com/wp-content/uploads/2024/10/jeffsandquist.webp?fit=32%2C32&amp;ssl=1" />
+            <outline text="Jeff Wilcox" title="Jeff Wilcox" description="Jeff Wilcox" type="link" url="https://jeffwilcox.blog/" favicon="https://jeffwilcox.blog/favicon.ico" />
+            <outline text="Jens Rantil" title="Jens Rantil" description="Jens Rantil" type="link" url="https://jensrantil.github.io/posts/" favicon="https://jensrantil.github.io/images/favicon.svg" />
+            <outline text="Jeremy Danyow" title="Jeremy Danyow" description="Jeremy Danyow" type="link" url="https://danyow.net/" favicon="https://danyow.net/favicon.ico" />
+            <outline text="Jerred Shepherd" title="Jerred Shepherd" description="Jerred Shepherd" type="link" url="https://sjer.red/" favicon="https://sjer.red/apple-touch-icon.png" />
+            <outline text="Jessie Frazelle" title="Jessie Frazelle" description="Jessie Frazelle" type="link" url="https://jess.dev/" favicon="https://blog.jessfraz.com/favicon.ico" />
+            <outline text="Joe Thor" title="Joe Thor" description="Joe Thor" type="link" url="https://joethor.dev" favicon="/generic.ico" />
+            <outline text="John Gruber" title="John Gruber" description="John Gruber" type="link" url="https://daringfireball.net" favicon="https://daringfireball.net/graphics/favicon.ico" />
+            <outline text="John Papa" title="John Papa" description="John Papa" type="link" url="https://johnpapa.net/" favicon="https://johnpapa.net/favicon.ico" />
+            <outline text="Jonathan Rico" title="Jonathan Rico" description="Jonathan Rico" type="link" url="https://jonathan.rico.live/" favicon="https://jonathan.rico.live/favicon.ico" />
+            <outline text="Julio Merino" title="Julio Merino" description="Julio Merino" type="link" url="https://jmmv.dev/" favicon="https://jmmv.dev/images/favicons/favicon-30x30.png" />
+            <outline text="Karn Wong" title="Karn Wong" description="Karn Wong" type="link" url="https://karnwong.me/" favicon="https://karnwong.me/img/favicon.ico" />
+            <outline text="Kart" title="Kart" description="Kart" type="link" url="http://blog.vashishtha.in/" favicon="https://blog.vashishtha.in/favicon.ico" />
+            <outline text="Kartik Agaram" title="Kartik Agaram" description="Kartik Agaram" type="link" url="https://akkartik.name" favicon="https://akkartik.name/favicon.ico" />
+            <outline text="Keith Cirkel" title="Keith Cirkel" description="Keith Cirkel" type="link" url="https://www.keithcirkel.co.uk/" favicon="https://www.keithcirkel.co.uk/favicon.ico" />
+            <outline text="Ken Shirriff" title="Ken Shirriff" description="Ken Shirriff" type="link" url="https://www.righto.com/" favicon="https://www.righto.com/favicon.ico" />
+            <outline text="Kenan Yusuf" title="Kenan Yusuf" description="Kenan Yusuf" type="link" url="https://kyusuf.com" favicon="https://kyusuf.com/favicon/favicon.ico" />
+            <outline text="Kilroy Jones" title="Kilroy Jones" description="Kilroy Jones" type="link" url="https://www.thespatula.io/" favicon="/generic.ico" />
+            <outline text="Kory Becker" title="Kory Becker" description="Kory Becker" type="link" url="https://www.primaryobjects.com" favicon="https://www.primaryobjects.com/favicon.ico" />
+            <outline text="Larry O&amp;#39;Brien" title="Larry O&amp;#39;Brien" description="Larry O&amp;#39;Brien" type="link" url="https://knowing.net" favicon="/generic.ico" />
+            <outline text="Laurent Bugnion" title="Laurent Bugnion" description="Laurent Bugnion" type="link" url="https://galasoft.ch" favicon="https://galasoft.ch/favicon.ico" />
+            <outline text="Lesley Lai" title="Lesley Lai" description="Lesley Lai" type="link" url="https://lesleylai.info/" favicon="https://lesleylai.info/favicon-32x32.png" />
+            <outline text="Luis Quintanilla" title="Luis Quintanilla" description="Luis Quintanilla" type="link" url="https://www.lqdev.me/" favicon="https://www.lqdev.me/favicon.ico" />
+            <outline text="Luke Salamone" title="Luke Salamone" description="Luke Salamone" type="link" url="https://blog.lukesalamone.com/" favicon="https://blog.lukesalamone.com/favicon.ico" />
+            <outline text="Mahmud Ridwan" title="Mahmud Ridwan" description="Mahmud Ridwan" type="link" url="https://hjr265.me/" favicon="https://hjr265.me/favicon-32x32.1d48fb00f610b0394f61635dcc40ce4fb3c75370201bf1a19c6e47425a3cc588.png" />
+            <outline text="Manpreet Kunnath" title="Manpreet Kunnath" description="Manpreet Kunnath" type="link" url="https://manpreet.fyi/" favicon="https://manpreet.fyi/favicon.ico" />
+            <outline text="Marek Gibney" title="Marek Gibney" description="Marek Gibney" type="link" url="https://www.gibney.org/" favicon="https://www.gibney.org/assets/images/mg_photo.jpg" />
+            <outline text="Mariusz Szubryt" title="Mariusz Szubryt" description="Mariusz Szubryt" type="link" url="https://szubryt.net" favicon="https://szubryt.net/favicon.svg" />
+            <outline text="Max Bernstein" title="Max Bernstein" description="Max Bernstein" type="link" url="https://bernsteinbear.com" favicon="https://bernsteinbear.com/favicon.ico" />
+            <outline text="Mayuko Inoue" title="Mayuko Inoue" description="Mayuko Inoue" type="link" url="https://www.hellomayuko.com/" favicon="https://images.squarespace-cdn.com/content/v1/5cc138a0c46f6d618fd63b4c/1590011027740-SKKDM5SVU995NU71SYLP/ke17ZwdGBToddI8pDm48kMpagLdZPgiW6yD5i4KsS9VZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7UnCxNA8dHvmd7460Z7fbKFSZnIIAPuX1C4iUTyn4Xd4-76gsgk4xgxAaWTBSRHt9w/favicon.ico?format=100w" />
+            <outline text="Mayur Bhoi" title="Mayur Bhoi" description="Mayur Bhoi" type="link" url="https://www.mayurbhoi.com" favicon="https://www.mayurbhoi.com/favicon.ico" />
+            <outline text="Meg Risdal" title="Meg Risdal" description="Meg Risdal" type="link" url="https://meg.dev/" favicon="https://www.meg.dev/favicon.png" />
+            <outline text="Melvyn Laïly" title="Melvyn Laïly" description="Melvyn Laïly" type="link" url="https://zerowidthjoiner.net/" favicon="https://zerowidthjoiner.net/favicon.ico" />
+            <outline text="Michael Mior" title="Michael Mior" description="Michael Mior" type="link" url="https://michael.mior.ca/blog" favicon="https://michael.mior.ca/favicons/android-chrome-144x144.png" />
+            <outline text="Miguel de Icaza" title="Miguel de Icaza" description="Miguel de Icaza" type="link" url="https://tirania.org/blog/" favicon="/generic.ico" />
+            <outline text="Mijndert Stuij" title="Mijndert Stuij" description="Mijndert Stuij" type="link" url="https://mijndertstuij.nl" favicon="https://mijndertstuij.nl/favicon/favicon-32x32.png" />
+            <outline text="Mikael Sargsyan" title="Mikael Sargsyan" description="Mikael Sargsyan" type="link" url="https://www.mishomike.dev" favicon="https://www.mishomike.dev/icon" />
+            <outline text="Mike Kasberg" title="Mike Kasberg" description="Mike Kasberg" type="link" url="https://www.mikekasberg.com/" favicon="https://www.mikekasberg.com/favicon-32x32.png" />
+            <outline text="Morten Nielsen" title="Morten Nielsen" description="Morten Nielsen" type="link" url="https://xaml.dev/" favicon="https://xaml.dev/Content/images/blog/blogengine.ico" />
+            <outline text="Muhammad Raza" title="Muhammad Raza" description="Muhammad Raza" type="link" url="https://muhammadraza.me/" favicon="/generic.ico" />
+            <outline text="Nelson Figueroa" title="Nelson Figueroa" description="Nelson Figueroa" type="link" url="https://nelson.cloud/" favicon="https://nelson.cloud/favicon-32x32.png" />
+            <outline text="Nicolas Bouliane" title="Nicolas Bouliane" description="Nicolas Bouliane" type="link" url="https://nicolasbouliane.com/" favicon="https://nicolasbouliane.com/img/favicon.png" />
+            <outline text="Nicole Tietz" title="Nicole Tietz" description="Nicole Tietz" type="link" url="https://ntietz.com/" favicon="https://ntietz.com/favicon-32x32.png" />
+            <outline text="Nicolò Gnudi" title="Nicolò Gnudi" description="Nicolò Gnudi" type="link" url="https://nickgnd.com/" favicon="https://nickgnd.com/favicon-32x32.png" />
+            <outline text="Niels Swimberghe" title="Niels Swimberghe" description="Niels Swimberghe" type="link" url="https://swimburger.net/" favicon="https://swimburger.net/favicon.ico" />
+            <outline text="Nikhil (Unsung Novelty)" title="Nikhil (Unsung Novelty)" description="Nikhil (Unsung Novelty)" type="link" url="https://www.unsungnovelty.org/" favicon="https://www.unsungnovelty.org/favicon.ico" />
+            <outline text="Niklas Johannknecht" title="Niklas Johannknecht" description="Niklas Johannknecht" type="link" url="https://niklasjohannknecht.com" favicon="https://niklasjohannknecht.com/images/favicon.png" />
+            <outline text="Nikolay Ninarski" title="Nikolay Ninarski" description="Nikolay Ninarski" type="link" url="https://ninio.ninarski.com/" favicon="https://ninio.ninarski.com/wp-content/uploads/2024/02/contract_edit_FILL0_wght200_GRAD0_opsz48.svg" />
+            <outline text="Orville McDonald" title="Orville McDonald" description="Orville McDonald" type="link" url="https://orvillemcdonald.com/" favicon="https://secure.gravatar.com/blavatar/9100f51f64391af7695250b9aaa8a75a" />
+            <outline text="Outlore" title="Outlore" description="Outlore" type="link" url="https://outlore.dev/" favicon="https://outlore.dev/logo-bg.png" />
+            <outline text="Paul Irish" title="Paul Irish" description="Paul Irish" type="link" url="https://www.paulirish.com/" favicon="https://www.paulirish.com/avatar150.jpg" />
+            <outline text="Paul Singh" title="Paul Singh" description="Paul Singh" type="link" url="https://somethingdecent.co.uk/" favicon="https://somethingdecent.co.uk/wp-content/uploads/2023/01/cropped-something-decent-logo-192x192.jpg" />
+            <outline text="Paul Stamatiou" title="Paul Stamatiou" description="Paul Stamatiou" type="link" url="https://paulstamatiou.com/" favicon="https://paulstamatiou.com/favicon.svg" />
+            <outline text="Paul Tötterman" title="Paul Tötterman" description="Paul Tötterman" type="link" url="https://paul.totterman.name" favicon="/generic.ico" />
+            <outline text="Peter Mekhaeil" title="Peter Mekhaeil" description="Peter Mekhaeil" type="link" url="https://www.petermekhaeil.com" favicon="https://www.petermekhaeil.com/assets/icon.png" />
+            <outline text="Philipp Cannons" title="Philipp Cannons" description="Philipp Cannons" type="link" url="https://philippcannons.com" favicon="https://philippcannons.com/wp-content/uploads/2020/04/cropped-favicon-32x32.png" />
+            <outline text="Quentin Santos" title="Quentin Santos" description="Quentin Santos" type="link" url="https://qsantos.fr/" favicon="https://i0.wp.com/qsantos.fr/wp-content/uploads/2022/07/avatar.png?fit=29%2C32&amp;ssl=1" />
+            <outline text="Rafał Pastuszak" title="Rafał Pastuszak" description="Rafał Pastuszak" type="link" url="https://untested.sonnet.io" favicon="https://untested.sonnet.io/assets/favicons/icon-32.png" />
+            <outline text="Ralf Jung" title="Ralf Jung" description="Ralf Jung" type="link" url="https://www.ralfj.de/" favicon="/generic.ico" />
+            <outline text="Raphael Gaschignard" title="Raphael Gaschignard" description="Raphael Gaschignard" type="link" url="https://rtpg.co/" favicon="https://rtpg.co/favicon.ico" />
+            <outline text="Raphaël Rigo" title="Raphaël Rigo" description="Raphaël Rigo" type="link" url="https://syscall.eu/" favicon="/generic.ico" />
+            <outline text="Redowan Delowar" title="Redowan Delowar" description="Redowan Delowar" type="link" url="https://rednafi.com/" favicon="https://blob.rednafi.com/static/images/home/favicon.webp" />
+            <outline text="ReproDev" title="ReproDev" description="ReproDev" type="link" url="https://reprodev.com/" favicon="https://reprodev.com/favicon.ico" />
+            <outline text="Robert Heaton" title="Robert Heaton" description="Robert Heaton" type="link" url="https://robertheaton.com" favicon="https://robertheaton.com/images/fav.png" />
+            <outline text="Rohan Kumar" title="Rohan Kumar" description="Rohan Kumar" type="link" url="https://seirdy.one/" favicon="https://seirdy.one/favicon192.cff57cdaf1657054398835cb00361c49.png" />
+            <outline text="Rupert Carr" title="Rupert Carr" description="Rupert Carr" type="link" url="https://pert.dev" favicon="/generic.ico" />
+            <outline text="Ryan Bagley" title="Ryan Bagley" description="Ryan Bagley" type="link" url="https://rb.ax/" favicon="/generic.ico" />
+            <outline text="Ryan Lynch" title="Ryan Lynch" description="Ryan Lynch" type="link" url="https://ryanlynch.me" favicon="https://ryanlynch.me/pages/Favicons/favicon-192x192.png" />
+            <outline text="Salman Ansari" title="Salman Ansari" description="Salman Ansari" type="link" url="https://salman.io/" favicon="https://salman.io/favicon.ico" />
+            <outline text="SaltyCrane" title="SaltyCrane" description="SaltyCrane" type="link" url="https://www.saltycrane.com/" favicon="https://www.saltycrane.com/favicon.ico" />
+            <outline text="Sasha Kotlyar" title="Sasha Kotlyar" description="Sasha Kotlyar" type="link" url="https://trycatch.dev/" favicon="https://trycatch.dev/wp-content/uploads/2022/07/cropped-favicon-32x32.png" />
+            <outline text="Sasha Rosenbaum" title="Sasha Rosenbaum" description="Sasha Rosenbaum" type="link" url="https://www.sasharosenbaum.com/" favicon="https://www.sasharosenbaum.com/images/favicon.png" />
+            <outline text="Scott Hanselman" title="Scott Hanselman" description="Scott Hanselman" type="link" url="https://www.hanselman.com/" favicon="https://www.hanselman.com/favicon.ico" />
+            <outline text="Sebastien Castiel" title="Sebastien Castiel" description="Sebastien Castiel" type="link" url="https://scastiel.dev" favicon="https://scastiel.dev/icon.png" />
+            <outline text="Sébastien Dubois" title="Sébastien Dubois" description="Sébastien Dubois" type="link" url="https://www.dsebastien.net/" favicon="https://www.dsebastien.net/content/images/size/w256h256/2022/11/logo_symbol.png" />
+            <outline text="Shaishav Kr" title="Shaishav Kr" description="Shaishav Kr" type="link" url="https://blog.shaishav.kr/" favicon="https://blog.shaishav.kr/assets/images/favicon.png" />
+            <outline text="Shariq Raza Qadri" title="Shariq Raza Qadri" description="Shariq Raza Qadri" type="link" url="https://cosmicqbit.dev" favicon="https://cosmicqbit.dev/images/avatar_hu474f295c7267822304e3fd2adfc9d2f2_13155_32x32_resize_q75_box.jpeg" />
+            <outline text="Siraj Chokshi" title="Siraj Chokshi" description="Siraj Chokshi" type="link" url="https://sirajchokshi.com" favicon="https://sirajchokshi.com/favicon.ico" />
+            <outline text="Stanko Tadic" title="Stanko Tadic" description="Stanko Tadic" type="link" url="https://muffinman.io/" favicon="https://muffinman.io/favicon/blue/icon-180.png" />
+            <outline text="Steph Ango" title="Steph Ango" description="Steph Ango" type="link" url="https://stephango.com/" favicon="https://stephango.com/icon.svg" />
+            <outline text="Theia Vogel" title="Theia Vogel" description="Theia Vogel" type="link" url="https://vgel.me/" favicon="https://vgel.me/favicon.ico" />
+            <outline text="Thejesh GN" title="Thejesh GN" description="Thejesh GN" type="link" url="https://thejeshgn.com" favicon="https://thejeshgn.com/wp-content/uploads/2015/08/cropped-thejeshgn_icon1-150x150.png" />
+            <outline text="Tim Cappalli" title="Tim Cappalli" description="Tim Cappalli" type="link" url="https://blog.timcappalli.me" favicon="https://blog.timcappalli.me/favicon.png" />
+            <outline text="Tim Heuer" title="Tim Heuer" description="Tim Heuer" type="link" url="https://timheuer.com/blog" favicon="https://timheuer.com/img/icon16x16.png" />
+            <outline text="Tom Kennes" title="Tom Kennes" description="Tom Kennes" type="link" url="https://tomkennes.com" favicon="https://tomkennes.com/favicon.ico" />
+            <outline text="Tsugu" title="Tsugu" description="Tsugu" type="link" url="https://tsugu.xyz" favicon="https://tsugu.xyz/images/favicon.webp" />
+            <outline text="Venn Stone" title="Venn Stone" description="Venn Stone" type="link" url="https://interfacinglinux.com/" favicon="https://interfacinglinux.com/wp-content/uploads/2024/01/cropped-favicontrans-32x32.webp" />
+            <outline text="Victor Björklund" title="Victor Björklund" description="Victor Björklund" type="link" url="https://victorbjorklund.com/" favicon="https://victorbjorklund.com/assets/images/favicon.png" />
+            <outline text="Vitalii Kovalenko" title="Vitalii Kovalenko" description="Vitalii Kovalenko" type="link" url="https://vk7.eu/" favicon="/generic.ico" />
+            <outline text="Vito Chin" title="Vito Chin" description="Vito Chin" type="link" url="https://vitochin.com" favicon="https://vitoc.azurewebsites.net/images/siteicon.jpg" />
+            <outline text="Vlad Iliescu" title="Vlad Iliescu" description="Vlad Iliescu" type="link" url="https://vladiliescu.net" favicon="https://vladiliescu.net/favicon.ico" />
+            <outline text="Vladimir Haltakov" title="Vladimir Haltakov" description="Vladimir Haltakov" type="link" url="https://haltakov.net/" favicon="https://haltakov.net/favicon.ico" />
+            <outline text="Vladimir Sivcevic" title="Vladimir Sivcevic" description="Vladimir Sivcevic" type="link" url="https://www.vladsiv.com/" favicon="https://www.vladsiv.com/favicon-32x32.png" />
+            <outline text="Yusuf Mohammad" title="Yusuf Mohammad" description="Yusuf Mohammad" type="link" url="https://ym2132.github.io" favicon="/generic.ico" />
+            <outline text="Yusuke Tsutsumi" title="Yusuke Tsutsumi" description="Yusuke Tsutsumi" type="link" url="https://y.tsutsumi.io/" favicon="https://y.tsutsumi.io/favicon.ico" />
+            <outline text="Zachary Kanfer" title="Zachary Kanfer" description="Zachary Kanfer" type="link" url="https://zck.org/" favicon="https://zck.org/favicon.ico" />
+            <outline text="Zoe Chew" title="Zoe Chew" description="Zoe Chew" type="link" url="https://whizzoe.com/" favicon="https://whizzoe.com/assets/images/favicon.png" />
+        </outline>
+    </body>
+</opml>
