@@ -4,10 +4,10 @@
 <opml version="2.0">
     <head>
         <title>BlogScroll - Personal Blog &amp; Site Directory</title>
-        <dateCreated>Fri, 20 Jun 2025 23:53:18 GMT</dateCreated>
-        <dateModified>Fri, 20 Jun 2025 23:53:18 GMT</dateModified>
+        <dateCreated>Fri, 20 Jun 2025 23:54:35 GMT</dateCreated>
+        <dateModified>Fri, 20 Jun 2025 23:54:35 GMT</dateModified>
         <ownerName>BlogScroll</ownerName>
-        <ownerEmail></ownerEmail>
+        <ownerEmail>hi@den.dev</ownerEmail>
     </head>
     <body>
         <outline text="Design and Ux" title="Design and Ux" description="Design and Ux" type="folder">
