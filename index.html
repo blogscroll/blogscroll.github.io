@@ -152,10 +152,63 @@
                 }
             }
         });
-    }
+    }    
+    document.addEventListener('DOMContentLoaded', function() {
+        optimizeFaviconLoading();
+        initializeSearch();
+    });    
+    function initializeSearch() {
+        const searchInput = document.getElementById('search-input');
+        const blogItems = document.querySelectorAll('.blog-item');
+        const categoryContainers = document.querySelectorAll('.category-container');
+        const statsDiv = document.getElementById('stats');
+        
+        
+        updateStats(blogItems.length, blogItems.length);
 
-    
-    document.addEventListener('DOMContentLoaded', optimizeFaviconLoading);
+        searchInput.addEventListener('input', function() {
+            const searchTerm = this.value.toLowerCase().trim();
+            
+            if (searchTerm === '') {
+                
+                blogItems.forEach(item => item.style.display = 'flex');
+                categoryContainers.forEach(container => container.style.display = 'block');
+                updateStats(blogItems.length, blogItems.length);
+                return;
+            }
+
+            
+            let visibleCount = 0;
+            categoryContainers.forEach(container => {
+                const items = container.querySelectorAll('.blog-item');
+                let hasVisibleItems = false;
+
+                items.forEach(item => {
+                    const title = item.querySelector('.blog-link').textContent.toLowerCase();
+                    if (title.includes(searchTerm)) {
+                        item.style.display = 'flex';
+                        hasVisibleItems = true;
+                        visibleCount++;
+                    } else {
+                        item.style.display = 'none';
+                    }
+                });
+
+                
+                container.style.display = hasVisibleItems ? 'block' : 'none';
+            });
+            
+            updateStats(visibleCount, blogItems.length);
+        });
+        
+        function updateStats(visible, total) {
+            if (visible === total) {
+                statsDiv.textContent = `${total} blogs`;
+            } else {
+                statsDiv.textContent = `${visible} of ${total} blogs`;
+            }
+        }
+    }
 </script>
 
     </head>
@@ -165,13 +218,15 @@
     <li><a href="https://github.com/blogscroll/blogscroll/issues/new?assignees=dend&labels=enhancement%2Cneeds-triage&projects=&template=1-site-request.yml&title=%5BSite+Request%5D%3A+">Add Your Site</a></li>
     <li><a onclick="goToRandomPage();" href="#">Surprise Me</a></li>
 </ul>
-
-
         <div class="site-title">
             <p>Welcome to BlogScroll! 👋</p>
             <p>This is an open directory of personal sites and blogs, maintained entirely <a class="blog-link" href="https://github.com/blogscroll/blogscroll">on GitHub</a>.</p>
             <p>This project was created by <a href="https://den.dev" class="blog-link">Den Delimarsky</a> in an effort to bring attention to little 🌱 digital gardens and ✨ personal corners of the internet that people maintain outside the "Big Tech" walled gardens. We're all better off maintaining homegrown corners of the Internet.</p>
             <p>You can subscribe to the <a class="blog-link" href="/index.xml">RSS feed</a> to stay up-to-date on the latest additions.</p>
+              <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search blogs..." />
+                <div class="stats" id="stats"></div>
+            </div>
         </div>
 
         <div class="link-container" id="link-container">
